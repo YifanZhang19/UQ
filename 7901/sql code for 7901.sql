@@ -7,7 +7,9 @@ DROP TABLE IF EXISTS manifest;
 DROP TABLE IF EXISTS operator;
 DROP TABLE IF EXISTS passenger;
 DROP TABLE IF EXISTS ship;
-
+/*
+    Create table and add PK and FK query
+*/
 CREATE TABLE cabin (
     ship_code      INT(4) NOT NULL,
     cabin_no       INT(5) NOT NULL,
@@ -164,7 +166,9 @@ ALTER TABLE manifest
     ADD CONSTRAINT cruise_manifest FOREIGN KEY ( cruise_id )
         REFERENCES cruise ( cruise_id );
 
-
+/*
+   Insert data to each table query
+*/
 
 INSERT INTO country(country_code, country_name)
 VALUES('CN', 'China');
@@ -855,5 +859,60 @@ INSERT INTO manifest (
 );
 
 
+/*
+    Query Demonstration
+*/
+SELECT
+    *
+FROM
+    passenger
+JOIN manifest ON passenger.passenger_id = manifest.passenger_id;
+
+
+SELECT
+    *
+FROM
+    passenger
+WHERE
+    passenger_dob IN(
+    SELECT
+        MAX(passenger_dob) AS max_dob
+    FROM
+        passenger
+    UNION ALL
+SELECT
+    MIN(passenger_dob) AS min_dob
+FROM
+    passenger
+);
+
+
+SELECT
+    ship_code,
+    cabin_class,
+    AVG(cabin_capacity) AS avg_capacity
+FROM
+    cabin
+GROUP BY
+    ship_code,
+    cabin_class
+ORDER BY        
+	ship_code,
+    avg_capacity DESC;
+
+
+DELETE
+FROM
+    manifest
+WHERE
+    manifest_id = 1;
+
+
+UPDATE
+    passenger
+SET
+    passenger_contact = '0469987230'
+WHERE
+    passenger_id = 65;
 
 

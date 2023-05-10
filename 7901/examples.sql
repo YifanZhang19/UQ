@@ -24,7 +24,7 @@ primary key (StarID, MovieID),
 foreign key (MovieID) references Movie(MovieID),
 foreign key (StarID) references MovieStar(StarID)
 );
- 
+
 
 Insert into Movie values (0, 'The Last Command', 1927);
 Insert into MovieStar values (1000, 'Emil Jannings', 'male');

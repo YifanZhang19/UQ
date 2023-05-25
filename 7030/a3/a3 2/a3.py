@@ -10,8 +10,9 @@ from constants import *
 
 
 class InfoBar(AbstractGrid):
-    """The InfoBar class represents the information bar in the farm game GUI.
-        It displays the current day, money, and energy of the player.
+    """
+    The InfoBar class represents the information bar in the farm game GUI.
+    It displays the current day, money, and energy of the player.
 
     Attributes:
         SIZE (tuple): The size of the InfoBar in pixels.
@@ -28,6 +29,7 @@ class InfoBar(AbstractGrid):
         Args:
             master (tk.Tk or tk.Frame): The parent widget for the InfoBar.
         """
+
         super().__init__(master, self.DIMENSIONS, self.SIZE)
 
     def redraw(self, day: int, money: int, energy: int):
@@ -39,6 +41,7 @@ class InfoBar(AbstractGrid):
             money: The amount of money the player has.
             energy: The energy level of the player.
         """
+
         self.clear()
         day_position = (0, 0)
         money_position = (0, 1)
@@ -76,6 +79,7 @@ class FarmView(AbstractGrid):
             **kwargs: Additional arguments to be passed to the superclass
             constructor.
         """
+
         super().__init__(master, dimensions=dimensions, size=size, **kwargs)
         self.cache = {}
         self.photo = None
@@ -85,13 +89,14 @@ class FarmView(AbstractGrid):
     str) -> None:
         """
         Redraws the FarmView with the provided data.
-    
+        
         Args:
             ground: A list representing the ground tiles on the farm.
             plants: A dictionary mapping plant positions to Plant objects.
             player_position: The position of the player on the farm grid.
             player_direction: The direction the player is facing.
         """
+
         self.clear()
         for row in range(len(ground)):
             for col in range(len(ground[row])):
@@ -130,7 +135,8 @@ class FarmView(AbstractGrid):
 
 
 class ItemView(tk.Frame):
-    """This class represents a graphical view of an item in the inventory.
+    """
+    This class represents a graphical view of an item in the inventory.
     """
 
     def __init__(self, master: tk.Frame, item_name: str, amount: int,
@@ -206,6 +212,7 @@ class ItemView(tk.Frame):
             amount: The amount of the item.
             selected: Whether the item is currently selected.
         """
+
         if amount == 0:
             if 'Seed' in self.item_name:
                 self.config(bg=INVENTORY_EMPTY_COLOUR)
@@ -284,7 +291,8 @@ class ItemView(tk.Frame):
 
 
 class FarmGame:
-    """The FarmGame class represents the main game interface for the farm game.
+    """
+    The FarmGame class represents the main game interface for the farm game.
     """
 
     def __init__(self, master: tk.Tk, map_file: str) -> None:
@@ -295,6 +303,7 @@ class FarmGame:
             master: The root Tkinter window.
             map_file: The file path to the map file.
         """
+
         self.item = None
         self.item_details = None
         self.items = {}
@@ -340,7 +349,10 @@ class FarmGame:
                               self.model.get_player().get_direction())
         self.farm_view.pack(side=tk.LEFT)
         for item in ITEMS:
-            self.amount = self.model.get_player().get_inventory().get(item, 0)
+            if item in self.model.get_player().get_inventory().keys():
+                self.amount = self.model.get_player().get_inventory()[item]
+            else:
+                self.amount = 0
             self.item_view = ItemView(master, item, self.amount,
                                       lambda item_name=item: self.select_item(
                                           item_name),
@@ -367,6 +379,7 @@ class FarmGame:
         """
         Redraws the game interface.
         """
+
         self.farm_view.redraw(self.model.get_map(), self.model.get_plants(),
                               self.model.get_player().get_position(),
                               self.model.get_player().get_direction())
@@ -392,6 +405,7 @@ class FarmGame:
         Args:
             event: The keypress event.
         """
+
         if event.char == UP:
             self.model.move_player(UP)
         elif event.char == DOWN:
@@ -455,6 +469,7 @@ class FarmGame:
         Args:
             item_name: The name of the item.
         """
+
         self.model.get_player().select_item(item_name)
         self.redraw()
 
@@ -465,6 +480,7 @@ class FarmGame:
         Args:
             item_name: The name of the item.
         """
+
         if item_name in BUY_PRICES.keys():
             self.model.get_player().buy(item_name, BUY_PRICES[item_name])
         self.redraw()
@@ -476,20 +492,16 @@ class FarmGame:
         Args:
             item_name: The name of the item.
         """
+
         self.model.get_player().sell(item_name, SELL_PRICES[item_name])
         self.redraw()
-
-    # def quit_app(self):
-    #     """
-    #     Quit this application
-    #     """
-    #     self.master.destroy()
 
     def map_selection(self):
         """
         Change game map
 
         """
+
         file_path = filedialog.askopenfilename()
         self.model = FarmModel(file_path)
         self.farm_view.cache = {}
@@ -505,6 +517,7 @@ def play_game(root: tk.Tk, map_file: str) -> None:
         root: The root Tkinter window.
         map_file: The file path to the map file.
     """
+
     FarmGame(root, map_file)
     root.mainloop()
 
@@ -513,6 +526,7 @@ def main() -> None:
     """
     The main function to start the farm game.
     """
+
     root = tk.Tk()
     play_game(root, 'maps/map1.txt')
 

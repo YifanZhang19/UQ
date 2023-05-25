@@ -5,6 +5,7 @@ from a3_support import *
 from model import *
 from constants import *
 
+
 # Implement your classes here
 
 
@@ -77,6 +78,7 @@ class FarmView(AbstractGrid):
         """
         super().__init__(master, dimensions=dimensions, size=size, **kwargs)
         self.cache = {}
+        self.photo = None
 
     def redraw(self, ground: list[str], plants: dict[tuple[int, int],
     'Plant'], player_position: tuple[int, int], player_direction:
@@ -175,7 +177,7 @@ class ItemView(tk.Frame):
 
             self.buy = tk.Button(self, text='Buy', relief=tk.FLAT, bg=self.bg,
                                  bd=0, command=buy_command,
-                                  highlightbackground=self.bg)
+                                 highlightbackground=self.bg)
             self.sell = tk.Button(self, text='Sell', relief=tk.FLAT,
                                   bg=self.bg, bd=0, command=sell_command,
                                   highlightbackground=self.bg)
@@ -207,37 +209,37 @@ class ItemView(tk.Frame):
         if amount == 0:
             if 'Seed' in self.item_name:
                 self.config(bg=INVENTORY_EMPTY_COLOUR)
-                self.item.config(bg=INVENTORY_EMPTY_COLOUR, text=
-                                            f'{self.item_name}:'
-                                            f' {amount}'
-                                            f'\nSell price: '
-                                            f'${SELL_PRICES[self.item_name]}'
-                                            f'\nBuy price: '
-                                            f'${BUY_PRICES[self.item_name]}')
+                self.item.config(bg=INVENTORY_EMPTY_COLOUR,
+                                 text=f'{self.item_name}:'
+                                      f' {amount}'
+                                      f'\nSell price: '
+                                      f'${SELL_PRICES[self.item_name]}'
+                                      f'\nBuy price: '
+                                      f'${BUY_PRICES[self.item_name]}')
                 self.sell.config(highlightbackground=INVENTORY_EMPTY_COLOUR)
                 self.buy.config(highlightbackground=INVENTORY_EMPTY_COLOUR)
             else:
                 self.config(bg=INVENTORY_EMPTY_COLOUR)
-                self.item.config(bg=INVENTORY_EMPTY_COLOUR, text=
-                                            f'{self.item_name}:'
-                                            f' {amount}'
-                                            f'\nSell price: '
-                                            f'${SELL_PRICES[self.item_name]}'
-                                            f'\nBuy price: '
-                                            f'$N/A')
+                self.item.config(bg=INVENTORY_EMPTY_COLOUR,
+                                 text=f'{self.item_name}:'
+                                      f' {amount}'
+                                      f'\nSell price: '
+                                      f'${SELL_PRICES[self.item_name]}'
+                                      f'\nBuy price: '
+                                      f'$N/A')
                 self.sell.config(highlightbackground=INVENTORY_EMPTY_COLOUR)
 
         else:
             if selected:
                 if 'Seed' in self.item_name:
                     self.config(bg=INVENTORY_SELECTED_COLOUR)
-                    self.item.config(bg=INVENTORY_SELECTED_COLOUR, text=
-                                            f'{self.item_name}:'
-                                            f' {amount}'
-                                            f'\nSell price: '
-                                            f'${SELL_PRICES[self.item_name]}'
-                                            f'\nBuy price: '
-                                            f'${BUY_PRICES[self.item_name]}')
+                    self.item.config(bg=INVENTORY_SELECTED_COLOUR,
+                                     text=f'{self.item_name}:'
+                                          f' {amount}'
+                                          f'\nSell price: '
+                                          f'${SELL_PRICES[self.item_name]}'
+                                          f'\nBuy price: '
+                                          f'${BUY_PRICES[self.item_name]}')
                     self.sell.config(
                         highlightbackground=INVENTORY_SELECTED_COLOUR
                     )
@@ -246,13 +248,13 @@ class ItemView(tk.Frame):
                     )
                 else:
                     self.config(bg=INVENTORY_SELECTED_COLOUR)
-                    self.item.config(bg=INVENTORY_SELECTED_COLOUR, text=
-                                            f'{self.item_name}:'
-                                            f' {amount}'
-                                            f'\nSell price: '
-                                            f'${SELL_PRICES[self.item_name]}'
-                                            f'\nBuy price: '
-                                            f'$N/A')
+                    self.item.config(bg=INVENTORY_SELECTED_COLOUR,
+                                     text=f'{self.item_name}:'
+                                          f' {amount}'
+                                          f'\nSell price: '
+                                          f'${SELL_PRICES[self.item_name]}'
+                                          f'\nBuy price: '
+                                          f'$N/A')
                     self.sell.config(
                         highlightbackground=INVENTORY_SELECTED_COLOUR
                     )
@@ -262,27 +264,26 @@ class ItemView(tk.Frame):
                     self.config(bg=INVENTORY_COLOUR)
                     self.item.config(bg=INVENTORY_COLOUR,
                                      text=f'{self.item_name}:'
-                                        f' {amount}'
-                                        f'\nSell price: '
-                                        f'${SELL_PRICES[self.item_name]}'
-                                        f'\nBuy price: '
-                                        f'${BUY_PRICES[self.item_name]}')
+                                          f' {amount}'
+                                          f'\nSell price: '
+                                          f'${SELL_PRICES[self.item_name]}'
+                                          f'\nBuy price: '
+                                          f'${BUY_PRICES[self.item_name]}')
                     self.sell.config(highlightbackground=INVENTORY_COLOUR)
                     self.buy.config(highlightbackground=INVENTORY_COLOUR)
                 else:
                     self.config(bg=INVENTORY_COLOUR)
-                    self.item.config(bg=INVENTORY_COLOUR, text=
-                                        f'{self.item_name}:'
-                                        f' {amount}'
-                                        f'\nSell price: '
-                                        f'${SELL_PRICES[self.item_name]}'
-                                        f'\nBuy price: '
-                                        f'$N/A')
+                    self.item.config(bg=INVENTORY_COLOUR,
+                                     text=f'{self.item_name}:'
+                                          f' {amount}'
+                                          f'\nSell price: '
+                                          f'${SELL_PRICES[self.item_name]}'
+                                          f'\nBuy price: '
+                                          f'$N/A')
                     self.sell.config(highlightbackground=INVENTORY_COLOUR)
 
 
-
-class FarmGame():
+class FarmGame:
     """The FarmGame class represents the main game interface for the farm game.
     """
 
@@ -294,6 +295,8 @@ class FarmGame():
             master: The root Tkinter window.
             map_file: The file path to the map file.
         """
+        self.item = None
+        self.item_details = None
         self.items = {}
         self.cache = {}
         self.master = master
@@ -310,7 +313,7 @@ class FarmGame():
 
         file_menu.add_command(
             label='Quit',
-            command=self.quit_app
+            command=master.destroy
         )
 
         file_menu.add_command(
@@ -324,8 +327,6 @@ class FarmGame():
         self.label.pack(side=tk.TOP)
 
         self.model = FarmModel(map_file)
-        self.player = self.model.get_player()
-
         self.info_bar = InfoBar(master)
         self.day_button = tk.Button(master, text='Next day',
                                     command=self.next_day)
@@ -335,11 +336,11 @@ class FarmGame():
         self.farm_view = FarmView(master, self.model.get_dimensions(),
                                   (FARM_WIDTH, FARM_WIDTH))
         self.farm_view.redraw(self.model.get_map(), self.model.get_plants(),
-                              self.player.get_position(),
-                              self.player.get_direction())
+                              self.model.get_player().get_position(),
+                              self.model.get_player().get_direction())
         self.farm_view.pack(side=tk.LEFT)
         for item in ITEMS:
-            self.amount = self.player.get_inventory().get(item, 0)
+            self.amount = self.model.get_player().get_inventory().get(item, 0)
             self.item_view = ItemView(master, item, self.amount,
                                       lambda item_name=item: self.select_item(
                                           item_name),
@@ -361,7 +362,6 @@ class FarmGame():
 
         self.model.new_day()
         self.redraw()
-
 
     def redraw(self) -> None:
         """
@@ -407,11 +407,12 @@ class FarmGame():
         elif event.char == 'p':
             player_position = self.model.get_player_position()
             plants = self.model.get_player().get_selected_item()
-            map = self.model.get_map()[player_position[0]][player_position[1]]
+            map_p = self.model.get_map()[player_position[0]][player_position[1]]
             inventory = self.model.get_player().get_inventory().keys()
+            plant_number = 0
             if plants in inventory:
                 plant_number = self.model.get_player().get_inventory()[plants]
-            if map == 'S':
+            if map_p == 'S':
                 if plants:
                     if 'Seed' in plants:
                         if plant_number > 0:
@@ -478,15 +479,11 @@ class FarmGame():
         self.model.get_player().sell(item_name, SELL_PRICES[item_name])
         self.redraw()
 
-    def quit_app(self):
-        """
-        Quit this application
-
-        Args:
-            root: The root Tkinter window.
-        """
-        self.master.destroy()
-
+    # def quit_app(self):
+    #     """
+    #     Quit this application
+    #     """
+    #     self.master.destroy()
 
     def map_selection(self):
         """

@@ -405,7 +405,7 @@ class FarmGame:
         Args:
             event: The keypress event.
         """
-
+        self.player = self.model.get_player()
         if event.char == UP:
             self.model.move_player(UP)
         elif event.char == DOWN:
@@ -420,35 +420,36 @@ class FarmGame:
             self.model.untill_soil(self.model.get_player_position())
         elif event.char == 'p':
             player_position = self.model.get_player_position()
-            plants = self.model.get_player().get_selected_item()
+            plants = self.player.get_selected_item()
             map_p = self.model.get_map()[player_position[0]][player_position[1]]
-            inventory = self.model.get_player().get_inventory().keys()
+            inventory = self.player.get_inventory().keys()
             plant_number = 0
             if plants in inventory:
-                plant_number = self.model.get_player().get_inventory()[plants]
-            if map_p == 'S':
-                if plants:
-                    if 'Seed' in plants:
-                        if plant_number > 0:
-                            if plants == 'Potato Seed':
-                                plant = PotatoPlant()
-                                self.model.add_plant(player_position, plant)
-                                self.model.get_player().remove_item((plants, 1))
-                            elif plants == 'Kale Seed':
-                                plant = KalePlant()
-                                self.model.add_plant(player_position, plant)
-                                self.model.get_player().remove_item((plants, 1))
-                            elif plants == 'Berry Seed':
-                                plant = BerryPlant()
-                                self.model.add_plant(player_position, plant)
-                                self.model.get_player().remove_item((plants, 1))
+                plant_number = self.player.get_inventory()[plants]
+            if player_position not in self.model.get_plants().keys():
+                if map_p == 'S':
+                    if plants:
+                        if 'Seed' in plants:
+                            if plant_number > 0:
+                                if plants == 'Potato Seed':
+                                    plant = PotatoPlant()
+                                    self.model.add_plant(player_position, plant)
+                                    self.player.remove_item((plants, 1))
+                                elif plants == 'Kale Seed':
+                                    plant = KalePlant()
+                                    self.model.add_plant(player_position, plant)
+                                    self.player.remove_item((plants, 1))
+                                elif plants == 'Berry Seed':
+                                    plant = BerryPlant()
+                                    self.model.add_plant(player_position, plant)
+                                    self.player.remove_item((plants, 1))
         elif event.char == 'h':
             player_position = self.model.get_player_position()
             plant = self.model.get_plants()[player_position]
             if plant:
                 if plant.can_harvest():
                     harvest = self.model.harvest_plant(player_position)
-                    self.model.get_player().add_item(harvest)
+                    self.player.add_item(harvest)
                     self.model.remove_plant(player_position)
         elif event.char == 'r':
             player_position = self.model.get_player_position()

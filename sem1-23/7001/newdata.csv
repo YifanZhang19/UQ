@@ -1,0 +1,2161 @@
+month,area,method,Number_of_Debts,Outstanding_Balance
+1,Brisbane - East,Tolling,49528,9817000
+1,Brisbane - East,Speeding,28461,8454000
+1,Brisbane - East,Driving,14003,4376000
+1,Brisbane - East,Vehicle,10970,3786000
+1,Brisbane - East,Other,5518,2826000
+1,Brisbane - East,"Fraud, Deception and Extortion Related Offences",778,1989000
+1,Brisbane - East,Fare Evasion,7064,1788000
+1,Brisbane - East,Offender Debt Recovery,178,1767000
+1,Brisbane - East,Public Order Offences,4273,1535000
+1,Brisbane - East,Parking,11035,1496000
+1,Brisbane - North,Speeding,30482,8925000
+1,Brisbane - North,Tolling,43785,8868000
+1,Brisbane - North,Driving,14363,4598000
+1,Brisbane - North,Vehicle,9337,3279000
+1,Brisbane - North,Fare Evasion,11729,2928000
+1,Brisbane - North,Other,6414,2674000
+1,Brisbane - North,Public Order Offences,5752,1848000
+1,Brisbane - North,Stealing,4433,1749000
+1,Brisbane - North,Offender Debt Recovery,197,1703000
+1,Brisbane - North,Parking,10962,1515000
+1,Brisbane - South,Speeding,51929,15525000
+1,Brisbane - South,Tolling,59346,11826000
+1,Brisbane - South,Driving,25209,8281000
+1,Brisbane - South,Vehicle,16927,6124000
+1,Brisbane - South,Other,9090,6063000
+1,Brisbane - South,Offender Debt Recovery,452,5107000
+1,Brisbane - South,Parking,27187,3875000
+1,Brisbane - South,Fare Evasion,11713,2991000
+1,Brisbane - South,Public Order Offences,8051,2748000
+1,Brisbane - South,Stealing,6286,2621000
+1,Brisbane - West,Speeding,9110,2990000
+1,Brisbane - West,Tolling,7352,1472000
+1,Brisbane - West,Driving,3721,1223000
+1,Brisbane - West,Vehicle,2662,919000
+1,Brisbane - West,Other,1263,917000
+1,Brisbane - West,Parking,4720,657000
+1,Brisbane - West,Offender Debt Recovery,58,564000
+1,Brisbane - West,Fare Evasion,1805,462000
+1,Brisbane - West,Public Order Offences,1063,386000
+1,Brisbane - West,Stealing,756,284000
+1,Brisbane Inner City,Speeding,40685,12601000
+1,Brisbane Inner City,Tolling,35545,7228000
+1,Brisbane Inner City,Driving,17607,5852000
+1,Brisbane Inner City,Other,9808,4844000
+1,Brisbane Inner City,Parking,31055,4417000
+1,Brisbane Inner City,Vehicle,12194,4337000
+1,Brisbane Inner City,Fare Evasion,13206,3380000
+1,Brisbane Inner City,Public Order Offences,9438,3077000
+1,Brisbane Inner City,Offender Debt Recovery,265,3026000
+1,Brisbane Inner City,"Fraud, Deception and Extortion Related Offences",1473,2279000
+1,Cairns,Driving,22478,7318000
+1,Cairns,Speeding,24840,6840000
+1,Cairns,Offender Debt Recovery,503,5310000
+1,Cairns,Other,14481,5126000
+1,Cairns,Public Order Offences,17115,4619000
+1,Cairns,Vehicle,12567,4192000
+1,Cairns,Drug,7098,2014000
+1,Cairns,Parking,16660,1729000
+1,Cairns,Stealing,5614,1693000
+1,Cairns,"Fraud, Deception and Extortion Related Offences",1114,1331000
+1,Central Queensland,Driving,26902,9020000
+1,Central Queensland,Speeding,24064,6991000
+1,Central Queensland,Other,13798,5320000
+1,Central Queensland,Vehicle,15192,4869000
+1,Central Queensland,Public Order Offences,14182,4487000
+1,Central Queensland,Offender Debt Recovery,336,3670000
+1,Central Queensland,Stealing,5939,2538000
+1,Central Queensland,Drug,7116,2269000
+1,Central Queensland,"Fraud, Deception and Extortion Related Offences",1464,1723000
+1,Central Queensland,Tolling,7948,1527000
+1,Darling Downs - Maranoa,Speeding,16402,4646000
+1,Darling Downs - Maranoa,Driving,13528,4332000
+1,Darling Downs - Maranoa,Vehicle,7660,2743000
+1,Darling Downs - Maranoa,Other,5561,2542000
+1,Darling Downs - Maranoa,Public Order Offences,5262,1957000
+1,Darling Downs - Maranoa,Offender Debt Recovery,156,1889000
+1,Darling Downs - Maranoa,Tolling,9758,1885000
+1,Darling Downs - Maranoa,Drug,3687,1163000
+1,Darling Downs - Maranoa,Stealing,2611,1121000
+January,Darling Downs - Maranoa,Animal,2393,804000
+1,Gold Coast,Speeding,112982,33896000
+1,Gold Coast,Driving,50426,16333000
+1,Gold Coast,Tolling,76593,15078000
+1,Gold Coast,Vehicle,40637,13668000
+1,Gold Coast,Parking,92535,11455000
+1,Gold Coast,Other,15761,8660000
+1,Gold Coast,"Fraud, Deception and Extortion Related Offences",2930,7701000
+1,Gold Coast,Fare Evasion,21695,6373000
+1,Gold Coast,Public Order Offences,14077,5321000
+1,Gold Coast,Offender Debt Recovery,432,4537000
+1,Ipswich,Speeding,73197,20022000
+1,Ipswich,Tolling,102775,19960000
+1,Ipswich,Driving,48931,15245000
+1,Ipswich,Vehicle,27775,9235000
+1,Ipswich,Offender Debt Recovery,665,8083000
+1,Ipswich,Other,15033,5889000
+1,Ipswich,Fare Evasion,21103,5409000
+1,Ipswich,Public Order Offences,14964,5248000
+1,Ipswich,Stealing,11595,4514000
+1,Ipswich,Drug,9885,3065000
+1,Logan - Beaudesert,Tolling,193953,38028000
+1,Logan - Beaudesert,Speeding,89053,25269000
+1,Logan - Beaudesert,Driving,57078,17809000
+1,Logan - Beaudesert,Vehicle,38705,13263000
+1,Logan - Beaudesert,Other,15903,7897000
+1,Logan - Beaudesert,Offender Debt Recovery,561,5972000
+1,Logan - Beaudesert,Fare Evasion,21893,5741000
+1,Logan - Beaudesert,Public Order Offences,15542,5595000
+1,Logan - Beaudesert,Stealing,10902,4851000
+1,Logan - Beaudesert,Parking,31167,4153000
+1,Mackay - Isaac - Whitsunday,Driving,15952,6014000
+1,Mackay - Isaac - Whitsunday,Speeding,16497,4794000
+1,Mackay - Isaac - Whitsunday,Vehicle,9283,3321000
+1,Mackay - Isaac - Whitsunday,Other,6211,3200000
+1,Mackay - Isaac - Whitsunday,Public Order Offences,6523,2556000
+1,Mackay - Isaac - Whitsunday,Offender Debt Recovery,159,1582000
+1,Mackay - Isaac - Whitsunday,Drug,4363,1544000
+1,Mackay - Isaac - Whitsunday,Stealing,2867,1258000
+1,Mackay - Isaac - Whitsunday,"Fraud, Deception and Extortion Related Offences",716,1177000
+1,Mackay - Isaac - Whitsunday,Tolling,5608,1106000
+1,Moreton Bay - North,Speeding,51948,14468000
+1,Moreton Bay - North,Tolling,58858,11699000
+1,Moreton Bay - North,Driving,30247,9873000
+1,Moreton Bay - North,Vehicle,19672,6782000
+1,Moreton Bay - North,Other,12942,5208000
+1,Moreton Bay - North,Offender Debt Recovery,462,4740000
+1,Moreton Bay - North,Public Order Offences,9966,3477000
+1,Moreton Bay - North,Stealing,7988,3365000
+1,Moreton Bay - North,Fare Evasion,12394,3144000
+1,Moreton Bay - North,Drug,8360,2961000
+1,Moreton Bay - South,Speeding,31417,8724000
+1,Moreton Bay - South,Tolling,38224,7651000
+1,Moreton Bay - South,Driving,14125,4495000
+1,Moreton Bay - South,Vehicle,9421,3252000
+1,Moreton Bay - South,Other,5225,2226000
+1,Moreton Bay - South,Fare Evasion,7797,1975000
+1,Moreton Bay - South,Offender Debt Recovery,157,1559000
+1,Moreton Bay - South,Public Order Offences,4371,1558000
+1,Moreton Bay - South,Stealing,3615,1472000
+1,Moreton Bay - South,"Fraud, Deception and Extortion Related Offences",764,1337000
+1,Sunshine Coast,Speeding,35049,10287000
+1,Sunshine Coast,Driving,22085,7322000
+1,Sunshine Coast,Vehicle,15739,5422000
+1,Sunshine Coast,Other,8176,4874000
+1,Sunshine Coast,Tolling,23151,4602000
+1,Sunshine Coast,Offender Debt Recovery,257,2830000
+1,Sunshine Coast,Public Order Offences,7396,2535000
+1,Sunshine Coast,"Fraud, Deception and Extortion Related Offences",1399,2287000
+1,Sunshine Coast,Drug,6205,2102000
+1,Sunshine Coast,Stealing,4963,2064000
+1,Toowoomba,Speeding,16574,4649000
+1,Toowoomba,Driving,11656,3813000
+1,Toowoomba,Public Order Offences,5667,2191000
+1,Toowoomba,Vehicle,6362,2188000
+1,Toowoomba,Other,5202,2076000
+1,Toowoomba,Offender Debt Recovery,203,2004000
+1,Toowoomba,Tolling,9927,1960000
+1,Toowoomba,Drug,3778,1183000
+1,Toowoomba,Stealing,3337,1179000
+1,Toowoomba,"Fraud, Deception and Extortion Related Offences",825,768000
+1,Townsville,Driving,28351,9575000
+1,Townsville,Offender Debt Recovery,610,6984000
+1,Townsville,Speeding,25304,6797000
+1,Townsville,Other,21158,6195000
+1,Townsville,Public Order Offences,20699,5704000
+1,Townsville,Vehicle,15450,5257000
+1,Townsville,Drug,9552,2691000
+1,Townsville,Stealing,6732,2668000
+1,Townsville,"Fraud, Deception and Extortion Related Offences",1240,1574000
+1,Townsville,"Bail, Probation and Fail to appear Offences",4898,1461000
+1,Wide Bay,Driving,27963,9358000
+1,Wide Bay,Speeding,31285,8785000
+1,Wide Bay,Offender Debt Recovery,519,5893000
+1,Wide Bay,Vehicle,17128,5543000
+1,Wide Bay,Other,14277,5352000
+1,Wide Bay,Public Order Offences,12448,4573000
+1,Wide Bay,Tolling,16445,3196000
+1,Wide Bay,Drug,8550,3013000
+1,Wide Bay,Stealing,6312,2494000
+1,Wide Bay,"Fraud, Deception and Extortion Related Offences",1390,1514000
+2,Brisbane - East,Tolling,51191,10165000
+2,Brisbane - East,Speeding,30182,9320000
+2,Brisbane - East,Driving,14598,4581000
+2,Brisbane - East,Vehicle,11696,4099000
+2,Brisbane - East,Other,5664,2956000
+2,Brisbane - East,Offender Debt Recovery,194,2042000
+2,Brisbane - East,"Fraud, Deception and Extortion Related Offences",837,2021000
+2,Brisbane - East,Fare Evasion,7350,1849000
+2,Brisbane - East,Parking,12152,1634000
+2,Brisbane - East,Public Order Offences,4342,1500000
+2,Brisbane - North,Speeding,31793,9845000
+2,Brisbane - North,Tolling,43444,8819000
+2,Brisbane - North,Driving,15079,4846000
+2,Brisbane - North,Vehicle,9765,3382000
+2,Brisbane - North,Other,6689,3187000
+2,Brisbane - North,Fare Evasion,11709,2917000
+2,Brisbane - North,Stealing,4591,1877000
+2,Brisbane - North,Public Order Offences,5896,1840000
+2,Brisbane - North,Offender Debt Recovery,202,1758000
+2,Brisbane - North,Parking,11685,1626000
+2,Brisbane - South,Speeding,52781,16859000
+2,Brisbane - South,Tolling,61251,12316000
+2,Brisbane - South,Driving,25844,8624000
+2,Brisbane - South,Vehicle,17930,6435000
+2,Brisbane - South,Other,9460,6323000
+2,Brisbane - South,Offender Debt Recovery,455,5374000
+2,Brisbane - South,Parking,29278,4191000
+2,Brisbane - South,Fare Evasion,11739,3004000
+2,Brisbane - South,Stealing,6237,2804000
+2,Brisbane - South,Public Order Offences,8226,2715000
+2,Brisbane - West,Speeding,9490,3223000
+2,Brisbane - West,Tolling,7920,1588000
+2,Brisbane - West,Driving,3788,1254000
+2,Brisbane - West,Vehicle,2857,983000
+2,Brisbane - West,Other,1348,981000
+2,Brisbane - West,Parking,5215,734000
+2,Brisbane - West,Offender Debt Recovery,61,704000
+2,Brisbane - West,Fare Evasion,1690,429000
+2,Brisbane - West,Public Order Offences,1040,359000
+2,Brisbane - West,Fail to Vote,1772,320000
+2,Brisbane Inner City,Speeding,41655,13534000
+2,Brisbane Inner City,Tolling,36680,7480000
+2,Brisbane Inner City,Driving,18121,6043000
+2,Brisbane Inner City,Other,10411,5026000
+2,Brisbane Inner City,Parking,34369,4888000
+2,Brisbane Inner City,Vehicle,13118,4687000
+2,Brisbane Inner City,Fare Evasion,14122,3606000
+2,Brisbane Inner City,Offender Debt Recovery,259,3106000
+2,Brisbane Inner City,Public Order Offences,9554,2966000
+2,Brisbane Inner City,"Fraud, Deception and Extortion Related Offences",1476,2533000
+2,Cairns,Driving,23532,7681000
+2,Cairns,Speeding,25625,7286000
+2,Cairns,Offender Debt Recovery,525,5454000
+2,Cairns,Other,15036,5326000
+2,Cairns,Public Order Offences,17168,4593000
+2,Cairns,Vehicle,13519,4476000
+2,Cairns,Drug,7418,2094000
+2,Cairns,Parking,17251,1814000
+2,Cairns,Stealing,5728,1739000
+2,Cairns,"Fraud, Deception and Extortion Related Offences",1189,1662000
+2,Central Queensland,Driving,27960,9341000
+2,Central Queensland,Speeding,24606,7184000
+2,Central Queensland,Other,14247,5460000
+2,Central Queensland,Vehicle,15964,5112000
+2,Central Queensland,Public Order Offences,14633,4558000
+2,Central Queensland,Offender Debt Recovery,352,3973000
+2,Central Queensland,Stealing,6312,2630000
+2,Central Queensland,Drug,7280,2315000
+2,Central Queensland,"Fraud, Deception and Extortion Related Offences",1579,1790000
+2,Central Queensland,Tolling,8293,1603000
+2,Darling Downs - Maranoa,Speeding,16457,4666000
+2,Darling Downs - Maranoa,Driving,13836,4403000
+2,Darling Downs - Maranoa,Vehicle,7870,2766000
+2,Darling Downs - Maranoa,Other,5663,2630000
+2,Darling Downs - Maranoa,Tolling,10072,1951000
+2,Darling Downs - Maranoa,Public Order Offences,5240,1835000
+2,Darling Downs - Maranoa,Offender Debt Recovery,144,1757000
+2,Darling Downs - Maranoa,Drug,3781,1197000
+2,Darling Downs - Maranoa,Stealing,2562,1125000
+2,Darling Downs - Maranoa,"Fraud, Deception and Extortion Related Offences",600,871000
+2,Gold Coast,Speeding,120407,38006000
+2,Gold Coast,Driving,53390,17333000
+2,Gold Coast,Tolling,82446,16327000
+2,Gold Coast,Vehicle,43983,14793000
+2,Gold Coast,Parking,97892,12068000
+2,Gold Coast,Other,16433,9546000
+2,Gold Coast,"Fraud, Deception and Extortion Related Offences",3123,8327000
+2,Gold Coast,Fare Evasion,22517,6614000
+2,Gold Coast,Public Order Offences,14209,5099000
+2,Gold Coast,Offender Debt Recovery,434,4797000
+2,Ipswich,Tolling,106690,20765000
+2,Ipswich,Speeding,74269,20664000
+2,Ipswich,Driving,50347,15668000
+2,Ipswich,Vehicle,28965,9656000
+2,Ipswich,Offender Debt Recovery,639,7679000
+2,Ipswich,Other,15623,6471000
+2,Ipswich,Fare Evasion,21910,5604000
+2,Ipswich,Public Order Offences,15297,5039000
+2,Ipswich,Stealing,11709,4428000
+2,Ipswich,Parking,24961,3314000
+2,Logan - Beaudesert,Tolling,202923,39935000
+2,Logan - Beaudesert,Speeding,90409,26248000
+2,Logan - Beaudesert,Driving,58620,18215000
+2,Logan - Beaudesert,Vehicle,39637,13568000
+2,Logan - Beaudesert,Other,16362,8311000
+2,Logan - Beaudesert,Offender Debt Recovery,580,6271000
+2,Logan - Beaudesert,Fare Evasion,22601,5931000
+2,Logan - Beaudesert,Public Order Offences,15914,5451000
+2,Logan - Beaudesert,Stealing,11116,4887000
+2,Logan - Beaudesert,Parking,32372,4299000
+2,Mackay - Isaac - Whitsunday,Driving,16430,6196000
+2,Mackay - Isaac - Whitsunday,Speeding,16838,4888000
+2,Mackay - Isaac - Whitsunday,Vehicle,9779,3431000
+2,Mackay - Isaac - Whitsunday,Other,6374,3283000
+2,Mackay - Isaac - Whitsunday,Public Order Offences,6697,2505000
+2,Mackay - Isaac - Whitsunday,Offender Debt Recovery,158,1638000
+2,Mackay - Isaac - Whitsunday,Drug,4414,1566000
+2,Mackay - Isaac - Whitsunday,"Fraud, Deception and Extortion Related Offences",759,1237000
+2,Mackay - Isaac - Whitsunday,Stealing,2840,1230000
+2,Mackay - Isaac - Whitsunday,Tolling,5560,1090000
+2,Moreton Bay - North,Speeding,52616,14764000
+2,Moreton Bay - North,Tolling,59720,11899000
+2,Moreton Bay - North,Driving,31524,10238000
+2,Moreton Bay - North,Vehicle,20476,6940000
+2,Moreton Bay - North,Other,13434,5353000
+2,Moreton Bay - North,Offender Debt Recovery,456,4731000
+2,Moreton Bay - North,Public Order Offences,10208,3451000
+2,Moreton Bay - North,Stealing,8073,3408000
+2,Moreton Bay - North,Fare Evasion,12828,3235000
+2,Moreton Bay - North,Drug,8593,3039000
+2,Moreton Bay - South,Speeding,31936,9228000
+2,Moreton Bay - South,Tolling,38520,7705000
+2,Moreton Bay - South,Driving,14657,4650000
+2,Moreton Bay - South,Vehicle,9990,3470000
+2,Moreton Bay - South,Other,5495,2459000
+2,Moreton Bay - South,Fare Evasion,8000,2025000
+2,Moreton Bay - South,Offender Debt Recovery,161,1635000
+2,Moreton Bay - South,Stealing,3642,1534000
+2,Moreton Bay - South,Public Order Offences,4497,1527000
+2,Moreton Bay - South,"Fraud, Deception and Extortion Related Offences",740,1446000
+2,Sunshine Coast,Speeding,36568,11225000
+2,Sunshine Coast,Driving,23377,7741000
+2,Sunshine Coast,Vehicle,16993,5883000
+2,Sunshine Coast,Tolling,24856,4956000
+2,Sunshine Coast,Other,8583,4771000
+2,Sunshine Coast,Offender Debt Recovery,274,2921000
+2,Sunshine Coast,Public Order Offences,7736,2554000
+2,Sunshine Coast,"Fraud, Deception and Extortion Related Offences",1393,2425000
+2,Sunshine Coast,Drug,6510,2208000
+2,Sunshine Coast,Stealing,5233,2081000
+2,Toowoomba,Speeding,16805,4769000
+2,Toowoomba,Driving,12079,3984000
+2,Toowoomba,Vehicle,6546,2230000
+2,Toowoomba,Offender Debt Recovery,218,2222000
+2,Toowoomba,Public Order Offences,5767,2110000
+2,Toowoomba,Other,5280,2044000
+2,Toowoomba,Tolling,10130,2003000
+2,Toowoomba,Stealing,3531,1269000
+2,Toowoomba,Drug,3868,1208000
+2,Toowoomba,"Fraud, Deception and Extortion Related Offences",808,805000
+2,Townsville,Driving,29342,9873000
+2,Townsville,Speeding,26522,7146000
+2,Townsville,Offender Debt Recovery,607,7136000
+2,Townsville,Other,21463,6323000
+2,Townsville,Public Order Offences,20547,5598000
+2,Townsville,Vehicle,16147,5476000
+2,Townsville,Stealing,6795,2733000
+2,Townsville,Drug,9606,2719000
+2,Townsville,"Fraud, Deception and Extortion Related Offences",1337,1658000
+2,Townsville,"Bail, Probation and Fail to appear Offences",4969,1473000
+2,Wide Bay,Driving,28510,9414000
+2,Wide Bay,Speeding,31299,8779000
+2,Wide Bay,Offender Debt Recovery,510,5896000
+2,Wide Bay,Vehicle,17769,5773000
+2,Wide Bay,Other,14546,5222000
+2,Wide Bay,Public Order Offences,12708,4481000
+2,Wide Bay,Tolling,16934,3314000
+2,Wide Bay,Drug,8576,3028000
+2,Wide Bay,Stealing,6371,2566000
+2,Wide Bay,"Fraud, Deception and Extortion Related Offences",1480,1698000
+3,Brisbane - East,Tolling,49546,9821000
+3,Brisbane - East,Speeding,28366,8468000
+3,Brisbane - East,Driving,13833,4327000
+3,Brisbane - East,Vehicle,10804,3714000
+3,Brisbane - East,Other,5513,2924000
+3,Brisbane - East,"Fraud, Deception and Extortion Related Offences",812,2014000
+3,Brisbane - East,Offender Debt Recovery,181,1871000
+3,Brisbane - East,Fare Evasion,7007,1770000
+3,Brisbane - East,Public Order Offences,4288,1543000
+3,Brisbane - East,Parking,10953,1482000
+3,Brisbane - North,Tolling,44314,8998000
+3,Brisbane - North,Speeding,30753,8968000
+3,Brisbane - North,Driving,14412,4599000
+3,Brisbane - North,Vehicle,9290,3210000
+3,Brisbane - North,Fare Evasion,11449,2856000
+3,Brisbane - North,Other,6333,2656000
+3,Brisbane - North,Public Order Offences,5796,1879000
+3,Brisbane - North,Stealing,4443,1771000
+3,Brisbane - North,Offender Debt Recovery,199,1727000
+3,Brisbane - North,Parking,11139,1557000
+3,Brisbane - South,Speeding,52399,15784000
+3,Brisbane - South,Tolling,60128,11985000
+3,Brisbane - South,Driving,24981,8251000
+3,Brisbane - South,Vehicle,16733,6092000
+3,Brisbane - South,Other,8887,6022000
+3,Brisbane - South,Offender Debt Recovery,449,5207000
+3,Brisbane - South,Parking,26882,3858000
+3,Brisbane - South,Fare Evasion,11575,2968000
+3,Brisbane - South,Public Order Offences,7946,2742000
+3,Brisbane - South,Stealing,6075,2449000
+3,Brisbane - West,Speeding,9000,2954000
+3,Brisbane - West,Tolling,7414,1484000
+3,Brisbane - West,Driving,3592,1199000
+3,Brisbane - West,Other,1231,899000
+3,Brisbane - West,Vehicle,2551,889000
+3,Brisbane - West,Parking,4630,655000
+3,Brisbane - West,Offender Debt Recovery,56,593000
+3,Brisbane - West,Fare Evasion,1705,435000
+3,Brisbane - West,Public Order Offences,1020,385000
+3,Brisbane - West,Fail to Vote,1535,275000
+3,Brisbane Inner City,Speeding,40357,12605000
+3,Brisbane Inner City,Tolling,36083,7364000
+3,Brisbane Inner City,Driving,17372,5795000
+3,Brisbane Inner City,Other,9710,4716000
+3,Brisbane Inner City,Parking,31524,4519000
+3,Brisbane Inner City,Vehicle,12133,4336000
+3,Brisbane Inner City,Fare Evasion,13314,3408000
+3,Brisbane Inner City,Public Order Offences,9267,3015000
+3,Brisbane Inner City,Offender Debt Recovery,251,2770000
+3,Brisbane Inner City,"Fraud, Deception and Extortion Related Offences",1475,2326000
+3,Cairns,Driving,22243,7246000
+3,Cairns,Speeding,24590,6794000
+3,Cairns,Offender Debt Recovery,498,5209000
+3,Cairns,Other,14610,5056000
+3,Cairns,Public Order Offences,17227,4648000
+3,Cairns,Vehicle,12337,4128000
+3,Cairns,Drug,7065,1991000
+3,Cairns,Parking,16452,1688000
+3,Cairns,Stealing,5626,1666000
+3,Cairns,"Fraud, Deception and Extortion Related Offences",1101,1329000
+3,Central Queensland,Driving,26672,8980000
+3,Central Queensland,Speeding,23981,6978000
+3,Central Queensland,Other,13932,5325000
+3,Central Queensland,Vehicle,14918,4762000
+3,Central Queensland,Public Order Offences,14254,4545000
+3,Central Queensland,Offender Debt Recovery,344,3715000
+3,Central Queensland,Stealing,5972,2467000
+3,Central Queensland,Drug,7179,2282000
+3,Central Queensland,"Fraud, Deception and Extortion Related Offences",1462,1680000
+3,Central Queensland,Tolling,7814,1504000
+3,Darling Downs - Maranoa,Speeding,16714,4752000
+3,Darling Downs - Maranoa,Driving,13404,4297000
+3,Darling Downs - Maranoa,Vehicle,7563,2697000
+3,Darling Downs - Maranoa,Other,5448,2485000
+3,Darling Downs - Maranoa,Public Order Offences,5196,1963000
+3,Darling Downs - Maranoa,Tolling,10085,1953000
+3,Darling Downs - Maranoa,Offender Debt Recovery,155,1945000
+3,Darling Downs - Maranoa,Drug,3628,1144000
+3,Darling Downs - Maranoa,Stealing,2577,1118000
+3,Darling Downs - Maranoa,"Fraud, Deception and Extortion Related Offences",597,789000
+3,Gold Coast,Speeding,112925,34154000
+3,Gold Coast,Driving,49890,16178000
+3,Gold Coast,Tolling,76947,15199000
+3,Gold Coast,Vehicle,40309,13579000
+3,Gold Coast,Parking,91345,11266000
+3,Gold Coast,Other ²,15580,8671000
+3,Gold Coast,"Fraud, Deception and Extortion Related Offences",2923,7679000
+3,Gold Coast,Fare Evasion,21548,6341000
+3,Gold Coast,Public Order Offences,13981,5320000
+3,Gold Coast,Offender Debt Recovery,434,4443000
+3,Ipswich,Tolling,104164,20276000
+3,Ipswich,Speeding,73740,20244000
+3,Ipswich,Driving,48794,15200000
+3,Ipswich,Vehicle,27614,9192000
+3,Ipswich,Offender Debt Recovery,675,7941000
+3,Ipswich,Other,14928,5780000
+3,Ipswich,Fare Evasion,20971,5374000
+3,Ipswich,Public Order Offences,14870,5275000
+3,Ipswich,Stealing,11671,4530000
+3,Ipswich,Parking,23272,3067000
+3,Logan - Beaudesert,Tolling,193132,37853000
+3,Logan - Beaudesert,Speeding,89420,25499000
+3,Logan - Beaudesert,Driving,56676,17758000
+3,Logan - Beaudesert,Vehicle,38291,13126000
+3,Logan - Beaudesert,Other,15814,7912000
+3,Logan - Beaudesert,Offender Debt Recovery,571,5918000
+3,Logan - Beaudesert,Fare Evasion,21912,5740000
+3,Logan - Beaudesert,Public Order Offences,15510,5628000
+3,Logan - Beaudesert,Stealing,10905,4878000
+3,Logan - Beaudesert,Parking,31456,4219000
+3,Mackay - Isaac - Whitsunday,Driving,15619,5937000
+3,Mackay - Isaac - Whitsunday,Speeding,16253,4736000
+3,Mackay - Isaac - Whitsunday,Other,6114,3309000
+3,Mackay - Isaac - Whitsunday,Vehicle,9054,3199000
+3,Mackay - Isaac - Whitsunday,Public Order Offences,6412,2539000
+3,Mackay - Isaac - Whitsunday,Offender Debt Recovery,160,1528000
+3,Mackay - Isaac - Whitsunday,Drug,4244,1503000
+3,Mackay - Isaac - Whitsunday,Stealing,2801,1262000
+3,Mackay - Isaac - Whitsunday,"Fraud, Deception and Extortion Related Offences",700,1157000
+3,Mackay - Isaac - Whitsunday,Tolling,5483,1080000
+3,Moreton Bay - North,Speeding,52371,14634000
+3,Moreton Bay - North,Tolling,60068,11989000
+3,Moreton Bay - North,Driving,30092,9851000
+3,Moreton Bay - North,Vehicle,19490,6726000
+3,Moreton Bay - North,Other,12899,5200000
+3,Moreton Bay - North,Offender Debt Recovery,462,4665000
+3,Moreton Bay - North,Public Order Offences,9916,3461000
+3,Moreton Bay - North,Stealing,7982,3385000
+3,Moreton Bay - North,Fare Evasion,12598,3183000
+3,Moreton Bay - North,Drug,8376,2962000
+3,Moreton Bay - South,Speeding,31726,8805000
+3,Moreton Bay - South,Tolling,39050,7874000
+3,Moreton Bay - South,Driving,13935,4437000
+3,Moreton Bay - South,Vehicle,9283,3197000
+3,Moreton Bay - South,Other,5235,2275000
+3,Moreton Bay - South,Fare Evasion,7803,1979000
+3,Moreton Bay - South,Offender Debt Recovery,164,1575000
+3,Moreton Bay - South,Public Order Offences,4338,1557000
+3,Moreton Bay - South,Stealing,3561,1535000
+3,Moreton Bay - South,"Fraud, Deception and Extortion Related Offences",774,1325000
+3,Sunshine Coast,Speeding,35150,10345000
+3,Sunshine Coast,Driving,21852,7266000
+3,Sunshine Coast,Vehicle,15378,5303000
+3,Sunshine Coast,Other,8139,4825000
+3,Sunshine Coast,Tolling,23091,4562000
+3,Sunshine Coast,Offender Debt Recovery,259,2985000
+3,Sunshine Coast,Public Order Offences,7403,2556000
+3,Sunshine Coast,"Fraud, Deception and Extortion Related Offences",1409,2250000
+3,Sunshine Coast,Drug,6063,2061000
+3,Sunshine Coast,Stealing,4946,2011000
+3,Toowoomba,Speeding,16836,4752000
+3,Toowoomba,Driving,11547,3789000
+3,Toowoomba,Public Order Offences,5629,2204000
+3,Toowoomba,Vehicle,6320,2164000
+3,Toowoomba,Other,5226,2109000
+3,Toowoomba,Tolling,9886,1961000
+3,Toowoomba,Offender Debt Recovery,202,1947000
+3,Toowoomba,Drug,3773,1179000
+3,Toowoomba,Stealing,3379,1172000
+3,Toowoomba,"Fraud, Deception and Extortion Related Offences",817,758000
+3,Townsville,Driving,28290,9591000
+3,Townsville,Offender Debt Recovery,612,6904000
+3,Townsville,Speeding,25436,6876000
+3,Townsville,Other,21268,6191000
+3,Townsville,Public Order Offences,20817,5740000
+3,Townsville,Vehicle,15367,5254000
+3,Townsville,Stealing,6684,2702000
+3,Townsville,Drug,9451,2693000
+3,Townsville,"Fraud, Deception and Extortion Related Offences",1256,1561000
+3,Townsville,"Bail, Probation and Fail to appear Offences",4937,1468000
+3,Wide Bay,Driving,27742,9278000
+3,Wide Bay,Speeding,30964,8714000
+3,Wide Bay,Offender Debt Recovery,512,5644000
+3,Wide Bay,Vehicle,16768,5424000
+3,Wide Bay,Other,14064,5296000
+3,Wide Bay,Public Order Offences,12327,4563000
+3,Wide Bay,Tolling,16431,3200000
+3,Wide Bay,Drug,8437,2968000
+3,Wide Bay,Stealing,6246,2463000
+3,Wide Bay,"Fraud, Deception and Extortion Related Offences",1391,1494000
+4,Brisbane - East,Tolling,51040,10150000
+4,Brisbane - East,Speeding,30387,9352000
+4,Brisbane - East,Driving,14662,4646000
+4,Brisbane - East,Vehicle,11643,4081000
+4,Brisbane - East,Other,5646,3048000
+4,Brisbane - East,"Fraud, Deception and Extortion Related Offences",829,2032000
+4,Brisbane - East,Offender Debt Recovery,189,1969000
+4,Brisbane - East,Fare Evasion,7305,1850000
+4,Brisbane - East,Parking,12305,1660000
+4,Brisbane - East,Public Order Offences,4398,1516000
+4,Brisbane - North,Speeding,31597,9626000
+4,Brisbane - North,Tolling,43402,8811000
+4,Brisbane - North,Driving,15102,4835000
+4,Brisbane - North,Vehicle,9838,3430000
+4,Brisbane - North,Other,6639,3097000
+4,Brisbane - North,Fare Evasion,11688,2912000
+4,Brisbane - North,Stealing,4656,1923000
+4,Brisbane - North,Public Order Offences,5885,1822000
+4,Brisbane - North,Offender Debt Recovery,218,1744000
+4,Brisbane - North,Parking,12268,1707000
+4,Brisbane - South,Speeding,52176,16632000
+4,Brisbane - South,Tolling,61612,12414000
+4,Brisbane - South,Driving,25874,8637000
+4,Brisbane - South,Vehicle,17954,6469000
+4,Brisbane - South,Other,9429,6285000
+4,Brisbane - South,Offender Debt Recovery,448,5295000
+4,Brisbane - South,Parking,29415,4229000
+4,Brisbane - South,Unknown,487,3191000
+4,Brisbane - South,Fare Evasion,11939,3053000
+4,Brisbane - South,Public Order Offences,8207,2720000
+4,Brisbane - West,Speeding,9465,3226000
+4,Brisbane - West,Tolling,7531,1508000
+4,Brisbane - West,Driving,3808,1262000
+4,Brisbane - West,Vehicle,2821,971000
+4,Brisbane - West,Other,1359,969000
+4,Brisbane - West,Offender Debt Recovery,63,770000
+4,Brisbane - West,Parking,5031,713000
+4,Brisbane - West,Fare Evasion,1666,426000
+4,Brisbane - West,Public Order Offences,1058,360000
+4,Brisbane - West,Stealing,745,290000
+4,Brisbane Inner City,Speeding,40570,13197000
+4,Brisbane Inner City,Other,10022,9882000
+4,Brisbane Inner City,Tolling,36508,7453000
+4,Brisbane Inner City,Driving,17941,5930000
+4,Brisbane Inner City,Parking,34955,4962000
+4,Brisbane Inner City,Vehicle,13041,4659000
+4,Brisbane Inner City,Fare Evasion,13650,3484000
+4,Brisbane Inner City,Offender Debt Recovery,242,2977000
+4,Brisbane Inner City,Public Order Offences,9113,2789000
+4,Brisbane Inner City,"Fraud, Deception and Extortion Related Offences",1331,2293000
+4,Cairns,Driving,23479,7610000
+4,Cairns,Speeding,25337,7205000
+4,Cairns,Other,15028,5586000
+4,Cairns,Offender Debt Recovery,509,5410000
+4,Cairns,Public Order Offences,17292,4575000
+4,Cairns,Vehicle,13330,4400000
+4,Cairns,Drug,7380,2091000
+4,Cairns,Parking,16948,1786000
+4,Cairns,Stealing,5706,1724000
+4,Cairns,"Fraud, Deception and Extortion Related Offences",1240,1682000
+4,Central Queensland,Driving,28092,9375000
+4,Central Queensland,Speeding,24686,7197000
+4,Central Queensland,Other,14238,5344000
+4,Central Queensland,Vehicle,15958,5087000
+4,Central Queensland,Public Order Offences,14787,4544000
+4,Central Queensland,Offender Debt Recovery,366,4133000
+4,Central Queensland,Stealing,6320,2620000
+4,Central Queensland,Drug,7255,2307000
+4,Central Queensland,"Fraud, Deception and Extortion Related Offences",1595,1747000
+4,Central Queensland,Tolling,8379,1612000
+4,Darling Downs - Maranoa,Speeding,16353,4611000
+4,Darling Downs - Maranoa,Driving,13885,4411000
+4,Darling Downs - Maranoa,Vehicle,7805,2722000
+4,Darling Downs - Maranoa,Other,5632,2649000
+4,Darling Downs - Maranoa,Tolling,9838,1909000
+4,Darling Downs - Maranoa,Public Order Offences,5291,1851000
+4,Darling Downs - Maranoa,Offender Debt Recovery,148,1817000
+4,Darling Downs - Maranoa,Drug,3805,1180000
+4,Darling Downs - Maranoa,Stealing,2486,1084000
+4,Darling Downs - Maranoa,"Fraud, Deception and Extortion Related Offences",627,884000
+4,Gold Coast,Speeding,120603,37902000
+4,Gold Coast,Driving,53836,17377000
+4,Gold Coast,Tolling,82952,16479000
+4,Gold Coast,Vehicle,43661,14626000
+4,Gold Coast,Parking,97214,11927000
+4,Gold Coast,Other,16378,9360000
+4,Gold Coast,"Fraud, Deception and Extortion Related Offences",3090,8963000
+4,Gold Coast,Fare Evasion,22546,6618000
+4,Gold Coast,Public Order Offences,14148,5038000
+4,Gold Coast,Offender Debt Recovery,423,4627000
+4,Ipswich,Tolling,105873,20617000
+4,Ipswich,Speeding,73424,20443000
+4,Ipswich,Driving,50895,15784000
+4,Ipswich,Vehicle,28963,9652000
+4,Ipswich,Offender Debt Recovery,615,7592000
+4,Ipswich,Other,15821,7381000
+4,Ipswich,Fare Evasion,22186,5685000
+4,Ipswich,Public Order Offences,15390,4998000
+4,Ipswich,Stealing,11896,4497000
+4,Ipswich,Parking,25234,3350000
+4,Logan - Beaudesert,Tolling,204112,40203000
+4,Logan - Beaudesert,Speeding,89508,25873000
+4,Logan - Beaudesert,Driving,58558,18184000
+4,Logan - Beaudesert,Vehicle,39458,13481000
+4,Logan - Beaudesert,Other,16270,8415000
+4,Logan - Beaudesert,Offender Debt Recovery,560,6029000
+4,Logan - Beaudesert,Fare Evasion,22345,5848000
+4,Logan - Beaudesert,Public Order Offences,15874,5392000
+4,Logan - Beaudesert,Stealing,10978,4895000
+4,Logan - Beaudesert,Parking,32727,4348000
+4,Mackay - Isaac - Whitsunday,Driving,16460,6231000
+4,Mackay - Isaac - Whitsunday,Speeding,16576,4831000
+4,Mackay - Isaac - Whitsunday,Vehicle,9800,3468000
+4,Mackay - Isaac - Whitsunday,Other,6351,3230000
+4,Mackay - Isaac - Whitsunday,Public Order Offences,6762,2476000
+4,Mackay - Isaac - Whitsunday,Offender Debt Recovery,148,1554000
+4,Mackay - Isaac - Whitsunday,Drug,4425,1544000
+4,Mackay - Isaac - Whitsunday,Stealing,2898,1270000
+4,Mackay - Isaac - Whitsunday,"Fraud, Deception and Extortion Related Offences",767,1261000
+4,Mackay - Isaac - Whitsunday,Tolling,5409,1055000
+4,Moreton Bay - North,Speeding,52278,14559000
+4,Moreton Bay - North,Tolling,58050,11561000
+4,Moreton Bay - North,Driving,31836,10284000
+4,Moreton Bay - North,Vehicle,20307,6822000
+4,Moreton Bay - North,Other,13672,5383000
+4,Moreton Bay - North,Offender Debt Recovery,460,4858000
+4,Moreton Bay - North,Public Order Offences,10471,3493000
+4,Moreton Bay - North,Stealing,8133,3280000
+4,Moreton Bay - North,Fare Evasion,12903,3257000
+4,Moreton Bay - North,Drug,8720,3059000
+4,Moreton Bay - South,Speeding,31718,9148000
+4,Moreton Bay - South,Tolling,38166,7621000
+4,Moreton Bay - South,Driving,14847,4673000
+4,Moreton Bay - South,Vehicle,9994,3472000
+4,Moreton Bay - South,Other,5491,2454000
+4,Moreton Bay - South,Fare Evasion,8095,2049000
+4,Moreton Bay - South,Offender Debt Recovery,157,1616000
+4,Moreton Bay - South,Stealing,3622,1541000
+4,Moreton Bay - South,Public Order Offences,4581,1510000
+4,Moreton Bay - South,Drug,4004,1394000
+4,Sunshine Coast,Speeding,36272,11093000
+4,Sunshine Coast,Driving,23707,7814000
+4,Sunshine Coast,Vehicle,17044,5886000
+4,Sunshine Coast,Tolling,24876,4958000
+4,Sunshine Coast,Other,8663,4768000
+4,Sunshine Coast,Offender Debt Recovery,257,2794000
+4,Sunshine Coast,"Fraud, Deception and Extortion Related Offences",1478,2610000
+4,Sunshine Coast,Public Order Offences,7780,2572000
+4,Sunshine Coast,Drug,6447,2186000
+4,Sunshine Coast,Stealing,5175,2063000
+4,Toowoomba,Speeding,16501,4684000
+4,Toowoomba,Driving,11901,3949000
+4,Toowoomba,Vehicle,6373,2211000
+4,Toowoomba,Public Order Offences,5720,2046000
+4,Toowoomba,Other,5043,1953000
+4,Toowoomba,Tolling,9884,1946000
+4,Toowoomba,Offender Debt Recovery,202,1860000
+4,Toowoomba,Stealing,3464,1283000
+4,Toowoomba,Drug,3827,1181000
+4,Toowoomba,"Fraud, Deception and Extortion Related Offences",797,897000
+4,Townsville,Driving,29470,9886000
+4,Townsville,Offender Debt Recovery,605,7099000
+4,Townsville,Speeding,26292,7069000
+4,Townsville,Other,21497,6270000
+4,Townsville,Public Order Offences,20603,5509000
+4,Townsville,Vehicle,16101,5481000
+4,Townsville,Stealing,6889,2783000
+4,Townsville,Drug,9607,2713000
+4,Townsville,"Fraud, Deception and Extortion Related Offences",1275,1639000
+4,Townsville,"Bail, Probation and Fail to appear Offences",4923,1450000
+4,Wide Bay,Driving,28246,9318000
+4,Wide Bay,Speeding,30600,8569000
+4,Wide Bay,Offender Debt Recovery,500,5780000
+4,Wide Bay,Vehicle,17491,5659000
+4,Wide Bay,Other,14519,5276000
+4,Wide Bay,Public Order Offences,12673,4477000
+4,Wide Bay,Tolling,17026,3326000
+4,Wide Bay,Drug,8525,3011000
+4,Wide Bay,Stealing,6352,2509000
+4,Wide Bay,"Fraud, Deception and Extortion Related Offences",1454,1648000
+5,Brisbane - East,Tolling,51657,10299000
+5,Brisbane - East,Speeding,30331,9393000
+5,Brisbane - East,Driving,14819,4654000
+5,Brisbane - East,Vehicle,11537,4003000
+5,Brisbane - East,Other,5657,3120000
+5,Brisbane - East,"Fraud, Deception and Extortion Related Offences",838,2035000
+5,Brisbane - East,Offender Debt Recovery,178,1974000
+5,Brisbane - East,Fare Evasion,7647,1932000
+5,Brisbane - East,Parking,12688,1704000
+5,Brisbane - East,Public Order Offences,4335,1456000
+5,Brisbane - North,Speeding,30443,9269000
+5,Brisbane - North,Tolling,41938,8491000
+5,Brisbane - North,Driving,15440,4882000
+5,Brisbane - North,Vehicle,9909,3462000
+5,Brisbane - North,Other,6866,3052000
+5,Brisbane - North,Fare Evasion,11992,2987000
+5,Brisbane - North,Stealing,4831,2082000
+5,Brisbane - North,Public Order Offences,5987,1824000
+5,Brisbane - North,Parking,12850,1805000
+5,Brisbane - North,Offender Debt Recovery,221,1771000
+5,Brisbane - South,Speeding,50885,16372000
+5,Brisbane - South,Tolling,61020,12342000
+5,Brisbane - South,Driving,25785,8552000
+5,Brisbane - South,Other,9429,6431000
+5,Brisbane - South,Vehicle,17841,6375000
+5,Brisbane - South,Offender Debt Recovery,430,5302000
+5,Brisbane - South,Parking,30171,4346000
+5,Brisbane - South,Fare Evasion,12131,3116000
+5,Brisbane - South,Unknown,293,3115000
+5,Brisbane - South,Public Order Offences,8188,2648000
+5,Brisbane - West,Speeding,9024,3084000
+5,Brisbane - West,Tolling,7376,1479000
+5,Brisbane - West,Driving,3692,1234000
+5,Brisbane - West,Other,1306,1002000
+5,Brisbane - West,Vehicle,2780,966000
+5,Brisbane - West,Offender Debt Recovery,60,755000
+5,Brisbane - West,Parking,5274,746000
+5,Brisbane - West,Fare Evasion,1607,409000
+5,Brisbane - West,Public Order Offences,998,337000
+5,Brisbane - West,Stealing,718,299000
+5,Brisbane Inner City,Speeding,39237,12826000
+5,Brisbane Inner City,Other,9560,9848000
+5,Brisbane Inner City,Tolling,35452,7239000
+5,Brisbane Inner City,Driving,17357,5738000
+5,Brisbane Inner City,Parking,35458,5062000
+5,Brisbane Inner City,Vehicle,12718,4476000
+5,Brisbane Inner City,Fare Evasion,12925,3293000
+5,Brisbane Inner City,Offender Debt Recovery,222,2901000
+5,Brisbane Inner City,Public Order Offences,8591,2680000
+5,Brisbane Inner City,"Fraud, Deception and Extortion Related Offences",1273,2061000
+5,Cairns,Driving,23333,7612000
+5,Cairns,Speeding,24422,6987000
+5,Cairns,Other,14949,5704000
+5,Cairns,Offender Debt Recovery,475,4954000
+5,Cairns,Public Order Offences,16941,4440000
+5,Cairns,Vehicle,13266,4384000
+5,Cairns,Drug,7488,2111000
+5,Cairns,Stealing,5707,1733000
+5,Cairns,Parking,16221,1730000
+5,Cairns,"Fraud, Deception and Extortion Related Offences",1162,1688000
+5,Central Queensland,Driving,28096,9400000
+5,Central Queensland,Speeding,24241,7139000
+5,Central Queensland,Other,14289,5433000
+5,Central Queensland,Vehicle,16077,5133000
+5,Central Queensland,Public Order Offences,14792,4516000
+5,Central Queensland,Offender Debt Recovery,350,4067000
+5,Central Queensland,Stealing,6314,2613000
+5,Central Queensland,Drug,7302,2311000
+5,Central Queensland,"Fraud, Deception and Extortion Related Offences",1665,1882000
+5,Central Queensland,Tolling,8073,1556000
+5,Darling Downs - Maranoa,Speeding,15785,4487000
+5,Darling Downs - Maranoa,Driving,13920,4417000
+5,Darling Downs - Maranoa,Vehicle,7768,2744000
+5,Darling Downs - Maranoa,Other,5732,2669000
+5,Darling Downs - Maranoa,Offender Debt Recovery,157,1888000
+5,Darling Downs - Maranoa,Public Order Offences,5406,1885000
+5,Darling Downs - Maranoa,Tolling,9632,1858000
+5,Darling Downs - Maranoa,Drug,3853,1208000
+5,Darling Downs - Maranoa,"Fraud, Deception and Extortion Related Offences",685,1170000
+5,Darling Downs - Maranoa,Stealing,2582,1155000
+5,Gold Coast,Speeding,117508,37177000
+5,Gold Coast,Driving,53566,17190000
+5,Gold Coast,Tolling,82962,16499000
+5,Gold Coast,Vehicle,43678,14621000
+5,Gold Coast,Parking,99714,12440000
+5,Gold Coast,Other,16100,9309000
+5,Gold Coast,"Fraud, Deception and Extortion Related Offences",3138,7464000
+5,Gold Coast,Fare Evasion,22268,6553000
+5,Gold Coast,Public Order Offences,13928,4892000
+5,Gold Coast,Offender Debt Recovery,412,4614000
+5,Ipswich,Tolling,104942,20490000
+5,Ipswich,Speeding,71336,20026000
+5,Ipswich,Driving,50931,15732000
+5,Ipswich,Vehicle,28902,9702000
+5,Ipswich,Offender Debt Recovery,592,7491000
+5,Ipswich,Other,15703,6431000
+5,Ipswich,Fare Evasion,22348,5726000
+5,Ipswich,Public Order Offences,15299,4843000
+5,Ipswich,Stealing,11779,4418000
+5,Ipswich,Parking,25957,3500000
+5,Logan - Beaudesert,Tolling,205349,40641000
+5,Logan - Beaudesert,Speeding,87301,25338000
+5,Logan - Beaudesert,Driving,58862,18303000
+5,Logan - Beaudesert,Vehicle,39560,13493000
+5,Logan - Beaudesert,Other,16199,8372000
+5,Logan - Beaudesert,Fare Evasion,22750,5966000
+5,Logan - Beaudesert,Offender Debt Recovery,548,5964000
+5,Logan - Beaudesert,Public Order Offences,16098,5355000
+5,Logan - Beaudesert,Stealing,11200,4971000
+5,Logan - Beaudesert,Parking,33123,4456000
+5,Mackay - Isaac - Whitsunday,Driving,16055,6054000
+5,Mackay - Isaac - Whitsunday,Speeding,16402,4833000
+5,Mackay - Isaac - Whitsunday,Vehicle,9470,3389000
+5,Mackay - Isaac - Whitsunday,Other,6256,3207000
+5,Mackay - Isaac - Whitsunday,Public Order Offences,6626,2410000
+5,Mackay - Isaac - Whitsunday,Offender Debt Recovery,147,1606000
+5,Mackay - Isaac - Whitsunday,Drug,4356,1527000
+5,Mackay - Isaac - Whitsunday,Stealing,2857,1321000
+5,Mackay - Isaac - Whitsunday,"Fraud, Deception and Extortion Related Offences",752,1200000
+5,Mackay - Isaac - Whitsunday,Tolling,5543,1084000
+5,Moreton Bay - North,Speeding,50584,14118000
+5,Moreton Bay - North,Tolling,56338,11203000
+5,Moreton Bay - North,Driving,32026,10307000
+5,Moreton Bay - North,Vehicle,20437,6840000
+5,Moreton Bay - North,Other,13530,5163000
+5,Moreton Bay - North,Offender Debt Recovery,430,4796000
+5,Moreton Bay - North,Public Order Offences,10610,3521000
+5,Moreton Bay - North,Stealing,8164,3278000
+5,Moreton Bay - North,Fare Evasion,12514,3176000
+5,Moreton Bay - North,Drug,8749,3050000
+5,Moreton Bay - South,Speeding,31423,9165000
+5,Moreton Bay - South,Tolling,37047,7399000
+5,Moreton Bay - South,Driving,14919,4711000
+5,Moreton Bay - South,Vehicle,9876,3454000
+5,Moreton Bay - South,Other,5641,2484000
+5,Moreton Bay - South,Fare Evasion,8668,2192000
+5,Moreton Bay - South,Offender Debt Recovery,146,1627000
+5,Moreton Bay - South,Stealing,3750,1620000
+5,Moreton Bay - South,Public Order Offences,4728,1535000
+5,Moreton Bay - South,"Fraud, Deception and Extortion Related Offences",765,1407000
+5,Sunshine Coast,Speeding,35529,10995000
+5,Sunshine Coast,Driving,23794,7880000
+5,Sunshine Coast,Vehicle,16947,5859000
+5,Sunshine Coast,Tolling,24959,4984000
+5,Sunshine Coast,Other,8570,4683000
+5,Sunshine Coast,Offender Debt Recovery,255,2814000
+5,Sunshine Coast,"Fraud, Deception and Extortion Related Offences",1407,2549000
+5,Sunshine Coast,Public Order Offences,7656,2537000
+5,Sunshine Coast,Drug,6409,2170000
+5,Sunshine Coast,Stealing,5046,1997000
+5,Toowoomba,Speeding,15935,4584000
+5,Toowoomba,Driving,11606,3841000
+5,Toowoomba,Vehicle,6237,2151000
+5,Toowoomba,Public Order Offences,5525,1956000
+5,Toowoomba,Tolling,9576,1894000
+5,Toowoomba,Other,5034,1879000
+5,Toowoomba,Offender Debt Recovery,195,1797000
+5,Toowoomba,Stealing,3453,1244000
+5,Toowoomba,Drug,3774,1166000
+5,Toowoomba,"Fraud, Deception and Extortion Related Offences",783,760000
+5,Townsville,Driving,29306,9813000
+5,Townsville,Offender Debt Recovery,608,7467000
+5,Townsville,Speeding,25310,6881000
+5,Townsville,Other,21719,6323000
+5,Townsville,Public Order Offences,20785,5533000
+5,Townsville,Vehicle,15940,5413000
+5,Townsville,Drug,9760,2770000
+5,Townsville,Stealing,6813,2761000
+5,Townsville,"Fraud, Deception and Extortion Related Offences",1266,1637000
+5,Townsville,"Bail, Probation and Fail to appear Offences",5010,1475000
+5,Wide Bay,Driving,28730,9535000
+5,Wide Bay,Speeding,30233,8636000
+5,Wide Bay,Offender Debt Recovery,503,6184000
+5,Wide Bay,Vehicle,17724,5753000
+5,Wide Bay,Other,14992,5413000
+5,Wide Bay,Public Order Offences,13061,4461000
+5,Wide Bay,Tolling,17540,3415000
+5,Wide Bay,Drug,8933,3146000
+5,Wide Bay,Stealing,6605,2693000
+5,Wide Bay,"Fraud, Deception and Extortion Related Offences",1452,1703000
+6,Brisbane - East,Tolling,50889,10117000
+6,Brisbane - East,Speeding,29783,9262000
+6,Brisbane - East,Driving,14305,4485000
+6,Brisbane - East,Vehicle,11503,4057000
+6,Brisbane - East,Other,5685,3085000
+6,Brisbane - East,"Fraud, Deception and Extortion Related Offences",816,2007000
+6,Brisbane - East,Fare Evasion,7467,1883000
+6,Brisbane - East,Offender Debt Recovery,186,1833000
+6,Brisbane - East,Parking,11545,1569000
+6,Brisbane - East,Public Order Offences,4316,1470000
+6,Brisbane - North,Speeding,31813,9877000
+6,Brisbane - North,Tolling,44597,9026000
+6,Brisbane - North,Driving,14583,4721000
+6,Brisbane - North,Vehicle,9602,3312000
+6,Brisbane - North,Fare Evasion,11615,2892000
+6,Brisbane - North,Other,6612,2877000
+6,Brisbane - North,Public Order Offences,5775,1828000
+6,Brisbane - North,Stealing,4451,1807000
+6,Brisbane - North,Offender Debt Recovery,200,1644000
+6,Brisbane - North,Parking,11480,1589000
+6,Brisbane - South,Speeding,53070,16694000
+6,Brisbane - South,Tolling,60633,12146000
+6,Brisbane - South,Driving,25620,8581000
+6,Brisbane - South,Vehicle,17749,6477000
+6,Brisbane - South,Other,9572,6413000
+6,Brisbane - South,Offender Debt Recovery,462,5241000
+6,Brisbane - South,Parking,28326,4056000
+6,Brisbane - South,Fare Evasion,11785,3018000
+6,Brisbane - South,Public Order Offences,8212,2771000
+6,Brisbane - South,Stealing,6294,2722000
+6,Brisbane - West,Speeding,9760,3436000
+6,Brisbane - West,Tolling,7722,1549000
+6,Brisbane - West,Driving,3781,1255000
+6,Brisbane - West,Vehicle,2812,977000
+6,Brisbane - West,Other,1301,963000
+6,Brisbane - West,Offender Debt Recovery,60,788000
+6,Brisbane - West,Parking,5061,709000
+6,Brisbane - West,Fare Evasion,1712,441000
+6,Brisbane - West,Public Order Offences,1044,360000
+6,Brisbane - West,Fail to Vote,1661,295000
+6,Brisbane Inner City,Speeding,42345,13814000
+6,Brisbane Inner City,Tolling,36742,7501000
+6,Brisbane Inner City,Driving,18001,6010000
+6,Brisbane Inner City,Other,10319,5179000
+6,Brisbane Inner City,Parking,33045,4719000
+6,Brisbane Inner City,Vehicle,12922,4615000
+6,Brisbane Inner City,Fare Evasion,13843,3542000
+6,Brisbane Inner City,Offender Debt Recovery,257,3070000
+6,Brisbane Inner City,Public Order Offences,9579,2999000
+6,Brisbane Inner City,"Fraud, Deception and Extortion Related Offences",1608,2549000
+6,Cairns,Driving,23358,7622000
+6,Cairns,Speeding,26242,7526000
+6,Cairns,Other,14824,5394000
+6,Cairns,Offender Debt Recovery,512,5383000
+6,Cairns,Public Order Offences,17062,4539000
+6,Cairns,Vehicle,13115,4389000
+6,Cairns,Drug,7310,2069000
+6,Cairns,Parking,17433,1842000
+6,Cairns,Stealing,5634,1703000
+6,Cairns,"Fraud, Deception and Extortion Related Offences",1111,1550000
+6,Central Queensland,Driving,27567,9233000
+6,Central Queensland,Speeding,24413,7173000
+6,Central Queensland,Other,14232,5430000
+6,Central Queensland,Vehicle,15710,5008000
+6,Central Queensland,Public Order Offences,14529,4550000
+6,Central Queensland,Offender Debt Recovery,352,3922000
+6,Central Queensland,Stealing,6204,2614000
+6,Central Queensland,Drug,7314,2340000
+6,Central Queensland,"Fraud, Deception and Extortion Related Offences",1543,1768000
+6,Central Queensland,Tolling,8248,1591000
+6,Darling Downs - Maranoa,Speeding,16885,4838000
+6,Darling Downs - Maranoa,Driving,13863,4414000
+6,Darling Downs - Maranoa,Vehicle,7827,2781000
+6,Darling Downs - Maranoa,Other,5643,2672000
+6,Darling Downs - Maranoa,Tolling,10509,2071000
+6,Darling Downs - Maranoa,Public Order Offences,5365,1893000
+6,Darling Downs - Maranoa,Offender Debt Recovery,150,1823000
+6,Darling Downs - Maranoa,Drug,3780,1188000
+6,Darling Downs - Maranoa,Stealing,2591,1128000
+6,Darling Downs - Maranoa,"Fraud, Deception and Extortion Related Offences",585,819000
+6,Gold Coast,Speeding,118551,37562000
+6,Gold Coast,Driving,51804,16871000
+6,Gold Coast,Tolling,81437,16086000
+6,Gold Coast,Vehicle,42426,14335000
+6,Gold Coast,Parking,96968,12051000
+6,Gold Coast,Other,16311,9527000
+6,Gold Coast,"Fraud, Deception and Extortion Related Offences",3053,8578000
+6,Gold Coast,Fare Evasion,21758,6381000
+6,Gold Coast,Public Order Offences,14219,5158000
+6,Gold Coast,Offender Debt Recovery,431,4518000
+6,Ipswich,Speeding,74037,20599000
+6,Ipswich,Tolling,105114,20423000
+6,Ipswich,Driving,49414,15421000
+6,Ipswich,Vehicle,28425,9481000
+6,Ipswich,Offender Debt Recovery,664,8085000
+6,Ipswich,Other,15427,6300000
+6,Ipswich,Fare Evasion,21690,5568000
+6,Ipswich,Public Order Offences,15134,5131000
+6,Ipswich,Stealing,11753,4500000
+6,Ipswich,Parking,24168,3186000
+6,Logan - Beaudesert,Tolling,200433,39404000
+6,Logan - Beaudesert,Speeding,90136,26315000
+6,Logan - Beaudesert,Driving,57856,18040000
+6,Logan - Beaudesert,Vehicle,39332,13474000
+6,Logan - Beaudesert,Other,16193,8447000
+6,Logan - Beaudesert,Offender Debt Recovery,583,6121000
+6,Logan - Beaudesert,Fare Evasion,22310,5852000
+6,Logan - Beaudesert,Public Order Offences,15648,5531000
+6,Logan - Beaudesert,Stealing,10943,4851000
+6,Logan - Beaudesert,Parking,32269,4309000
+6,Mackay - Isaac - Whitsunday,Driving,16208,6109000
+6,Mackay - Isaac - Whitsunday,Speeding,16710,4894000
+6,Mackay - Isaac - Whitsunday,Vehicle,9651,3426000
+6,Mackay - Isaac - Whitsunday,Other,6287,3255000
+6,Mackay - Isaac - Whitsunday,Public Order Offences,6633,2526000
+6,Mackay - Isaac - Whitsunday,Offender Debt Recovery,157,1589000
+6,Mackay - Isaac - Whitsunday,Drug,4355,1547000
+6,Mackay - Isaac - Whitsunday,Stealing,2873,1239000
+6,Mackay - Isaac - Whitsunday,"Fraud, Deception and Extortion Related Offences",749,1228000
+6,Mackay - Isaac - Whitsunday,Tolling,5729,1137000
+6,Moreton Bay - North,Speeding,52441,14819000
+6,Moreton Bay - North,Tolling,59849,11924000
+6,Moreton Bay - North,Driving,30885,10037000
+6,Moreton Bay - North,Vehicle,20116,6918000
+6,Moreton Bay - North,Other,13238,5300000
+6,Moreton Bay - North,Offender Debt Recovery,462,4771000
+6,Moreton Bay - North,Stealing,7983,3417000
+6,Moreton Bay - North,Public Order Offences,10016,3390000
+6,Moreton Bay - North,Fare Evasion,12806,3232000
+6,Moreton Bay - North,Drug,8318,2932000
+6,Moreton Bay - South,Speeding,31678,9189000
+6,Moreton Bay - South,Tolling,38404,7690000
+6,Moreton Bay - South,Driving,14368,4549000
+6,Moreton Bay - South,Vehicle,9833,3424000
+6,Moreton Bay - South,Other,5297,2385000
+6,Moreton Bay - South,Fare Evasion,7742,1959000
+6,Moreton Bay - South,Offender Debt Recovery,163,1593000
+6,Moreton Bay - South,Public Order Offences,4386,1528000
+6,Moreton Bay - South,Stealing,3623,1490000
+6,Moreton Bay - South,"Fraud, Deception and Extortion Related Offences",743,1398000
+6,Sunshine Coast,Speeding,36506,11290000
+6,Sunshine Coast,Driving,22616,7509000
+6,Sunshine Coast,Vehicle,16739,5826000
+6,Sunshine Coast,Tolling,24533,4886000
+6,Sunshine Coast,Other,8465,4753000
+6,Sunshine Coast,Offender Debt Recovery,268,2931000
+6,Sunshine Coast,Public Order Offences,7540,2528000
+6,Sunshine Coast,"Fraud, Deception and Extortion Related Offences",1408,2412000
+6,Sunshine Coast,Drug,6366,2166000
+6,Sunshine Coast,Stealing,5049,2065000
+6,Toowoomba,Speeding,16995,4834000
+6,Toowoomba,Driving,11985,3949000
+6,Toowoomba,Vehicle,6519,2249000
+6,Toowoomba,Public Order Offences,5743,2134000
+6,Toowoomba,Other,5260,2126000
+6,Toowoomba,Tolling,10540,2082000
+6,Toowoomba,Offender Debt Recovery,206,1873000
+6,Toowoomba,Drug,3875,1216000
+6,Toowoomba,Stealing,3461,1210000
+6,Toowoomba,"Fraud, Deception and Extortion Related Offences",803,795000
+6,Townsville,Driving,29017,9799000
+6,Townsville,Speeding,26014,7030000
+6,Townsville,Offender Debt Recovery,607,6959000
+6,Townsville,Other,21227,6335000
+6,Townsville,Public Order Offences,20646,5644000
+6,Townsville,Vehicle,15930,5402000
+6,Townsville,Drug,9665,2722000
+6,Townsville,Stealing,6761,2689000
+6,Townsville,"Fraud, Deception and Extortion Related Offences",1287,1609000
+6,Townsville,"Bail, Probation and Fail to appear Offences",4938,1461000
+6,Wide Bay,Driving,28432,9451000
+6,Wide Bay,Speeding,31625,8901000
+6,Wide Bay,Offender Debt Recovery,502,5659000
+6,Wide Bay,Vehicle,17458,5654000
+6,Wide Bay,Other,14224,5320000
+6,Wide Bay,Public Order Offences,12493,4499000
+6,Wide Bay,Tolling,16750,3263000
+6,Wide Bay,Drug,8564,3015000
+6,Wide Bay,Stealing,6282,2559000
+6,Wide Bay,"Fraud, Deception and Extortion Related Offences",1448,1656000
+7,Brisbane - East,Tolling,52552,10447000
+7,Brisbane - East,Speeding,31087,9632000
+7,Brisbane - East,Driving,15017,4706000
+7,Brisbane - East,Vehicle,11782,4075000
+7,Brisbane - East,Other,5650,3127000
+7,Brisbane - East,"Fraud, Deception and Extortion Related Offences",860,2101000
+7,Brisbane - East,Offender Debt Recovery,184,2011000
+7,Brisbane - East,Fare Evasion,7817,1967000
+7,Brisbane - East,Parking,12992,1747000
+7,Brisbane - East,Public Order Offences,4337,1438000
+7,Brisbane - North,Speeding,31119,9492000
+7,Brisbane - North,Tolling,42296,8550000
+7,Brisbane - North,Driving,15662,4931000
+7,Brisbane - North,Vehicle,10038,3518000
+7,Brisbane - North,Other,6811,3070000
+7,Brisbane - North,Fare Evasion,12006,2995000
+7,Brisbane - North,Stealing,4831,2012000
+7,Brisbane - North,Parking,13235,1859000
+7,Brisbane - North,Public Order Offences,5984,1802000
+7,Brisbane - North,Offender Debt Recovery,218,1783000
+7,Brisbane - South,Speeding,51737,16765000
+7,Brisbane - South,Tolling,61622,12461000
+7,Brisbane - South,Driving,25620,8476000
+7,Brisbane - South,Vehicle,17834,6405000
+7,Brisbane - South,Other,9393,6338000
+7,Brisbane - South,Offender Debt Recovery,407,5120000
+7,Brisbane - South,Parking,30397,4387000
+7,Brisbane - South,Fare Evasion,12092,3101000
+7,Brisbane - South,Unknown,260,3099000
+7,Brisbane - South,Public Order Offences,8208,2675000
+7,Brisbane - West,Speeding,9333,3171000
+7,Brisbane - West,Tolling,7504,1503000
+7,Brisbane - West,Driving,3791,1251000
+7,Brisbane - West,Other,1320,1023000
+7,Brisbane - West,Vehicle,2851,979000
+7,Brisbane - West,Parking,5344,757000
+7,Brisbane - West,Offender Debt Recovery,58,725000
+7,Brisbane - West,Fare Evasion,1774,456000
+7,Brisbane - West,Public Order Offences,1004,351000
+7,Brisbane - West,"Fraud, Deception and Extortion Related Offences",201,349000
+7,Brisbane Inner City,Speeding,39807,13060000
+7,Brisbane Inner City,Other,9768,9927000
+7,Brisbane Inner City,Tolling,35739,7320000
+7,Brisbane Inner City,Driving,17598,5816000
+7,Brisbane Inner City,Parking,36091,5160000
+7,Brisbane Inner City,Vehicle,12905,4529000
+7,Brisbane Inner City,Fare Evasion,13522,3445000
+7,Brisbane Inner City,Offender Debt Recovery,231,2860000
+7,Brisbane Inner City,Public Order Offences,8878,2736000
+7,Brisbane Inner City,"Fraud, Deception and Extortion Related Offences",1334,2190000
+7,Cairns,Driving,23649,7669000
+7,Cairns,Speeding,24584,7037000
+7,Cairns,Other,15043,5647000
+7,Cairns,Offender Debt Recovery,483,5131000
+7,Cairns,Vehicle,13455,4412000
+7,Cairns,Public Order Offences,16800,4387000
+7,Cairns,Drug,7525,2104000
+7,Cairns,Parking,16418,1767000
+7,Cairns,Stealing,5683,1721000
+7,Cairns,"Fraud, Deception and Extortion Related Offences",1182,1550000
+7,Central Queensland,Driving,28391,9465000
+7,Central Queensland,Speeding,24916,7344000
+7,Central Queensland,Other,14355,5322000
+7,Central Queensland,Vehicle,16183,5151000
+7,Central Queensland,Public Order Offences,15012,4536000
+7,Central Queensland,Offender Debt Recovery,341,4050000
+7,Central Queensland,Stealing,6338,2594000
+7,Central Queensland,Drug,7371,2316000
+7,Central Queensland,"Fraud, Deception and Extortion Related Offences",1615,1847000
+7,Central Queensland,Tolling,8268,1586000
+7,Darling Downs - Maranoa,Speeding,16087,4574000
+7,Darling Downs - Maranoa,Driving,14165,4490000
+7,Darling Downs - Maranoa,Vehicle,7860,2771000
+7,Darling Downs - Maranoa,Other,5791,2689000
+7,Darling Downs - Maranoa,Public Order Offences,5491,1912000
+7,Darling Downs - Maranoa,Offender Debt Recovery,158,1883000
+7,Darling Downs - Maranoa,Tolling,9605,1850000
+7,Darling Downs - Maranoa,Drug,3955,1220000
+7,Darling Downs - Maranoa,Stealing,2592,1147000
+7,Darling Downs - Maranoa,"Fraud, Deception and Extortion Related Offences",648,998000
+7,Gold Coast,Speeding,120129,37835000
+7,Gold Coast,Driving,54724,17500000
+7,Gold Coast,Tolling,83839,16625000
+7,Gold Coast,Vehicle,44463,14823000
+7,Gold Coast,Parking,100595,12499000
+7,Gold Coast,Other,16423,9450000
+7,Gold Coast,"Fraud, Deception and Extortion Related Offences",3270,7803000
+7,Gold Coast,Fare Evasion,22916,6744000
+7,Gold Coast,Public Order Offences,14251,4945000
+7,Gold Coast,Offender Debt Recovery,422,4917000
+7,Ipswich,Tolling,105529,20525000
+7,Ipswich,Speeding,71941,20180000
+7,Ipswich,Driving,51456,15829000
+7,Ipswich,Vehicle,29271,9811000
+7,Ipswich,Offender Debt Recovery,596,7591000
+7,Ipswich,Other,15826,7078000
+7,Ipswich,Fare Evasion,22319,5716000
+7,Ipswich,Public Order Offences,15324,4817000
+7,Ipswich,Stealing,11884,4417000
+7,Ipswich,Parking,26343,3533000
+7,Logan - Beaudesert,Tolling,206972,40949000
+7,Logan - Beaudesert,Speeding,88133,25632000
+7,Logan - Beaudesert,Driving,59434,18417000
+7,Logan - Beaudesert,Vehicle,39963,13597000
+7,Logan - Beaudesert,Other,16147,8254000
+7,Logan - Beaudesert,Offender Debt Recovery,547,6048000
+7,Logan - Beaudesert,Fare Evasion,22628,5922000
+7,Logan - Beaudesert,Public Order Offences,15983,5255000
+7,Logan - Beaudesert,Stealing,11137,4926000
+7,Logan - Beaudesert,Parking,33193,4461000
+7,Mackay - Isaac - Whitsunday,Driving,16214,6094000
+7,Mackay - Isaac - Whitsunday,Speeding,16574,4869000
+7,Mackay - Isaac - Whitsunday,Vehicle,9654,3445000
+7,Mackay - Isaac - Whitsunday,Other,6253,3141000
+7,Mackay - Isaac - Whitsunday,Public Order Offences,6613,2407000
+7,Mackay - Isaac - Whitsunday,Offender Debt Recovery,145,1633000
+7,Mackay - Isaac - Whitsunday,Drug,4326,1510000
+7,Mackay - Isaac - Whitsunday,Stealing,2890,1321000
+7,Mackay - Isaac - Whitsunday,"Fraud, Deception and Extortion Related Offences",753,1231000
+7,Mackay - Isaac - Whitsunday,Tolling,5667,1105000
+7,Moreton Bay - North,Speeding,51211,14273000
+7,Moreton Bay - North,Tolling,56071,11104000
+7,Moreton Bay - North,Driving,32189,10328000
+7,Moreton Bay - North,Vehicle,20532,6841000
+7,Moreton Bay - North,Other,13654,5188000
+7,Moreton Bay - North,Offender Debt Recovery,433,4939000
+7,Moreton Bay - North,Public Order Offences,10700,3502000
+7,Moreton Bay - North,Stealing,8222,3354000
+7,Moreton Bay - North,Fare Evasion,12850,3258000
+7,Moreton Bay - North,Drug,8823,3052000
+7,Moreton Bay - South,Speeding,32008,9307000
+7,Moreton Bay - South,Tolling,37489,7469000
+7,Moreton Bay - South,Driving,15075,4755000
+7,Moreton Bay - South,Vehicle,9991,3479000
+7,Moreton Bay - South,Other,5654,2376000
+7,Moreton Bay - South,Fare Evasion,8591,2169000
+7,Moreton Bay - South,Offender Debt Recovery,145,1555000
+7,Moreton Bay - South,Public Order Offences,4724,1529000
+7,Moreton Bay - South,Stealing,3692,1522000
+7,Moreton Bay - South,"Fraud, Deception and Extortion Related Offences",756,1520000
+7,Sunshine Coast,Speeding,36451,11234000
+7,Sunshine Coast,Driving,24341,8022000
+7,Sunshine Coast,Vehicle,17244,5952000
+7,Sunshine Coast,Tolling,25237,5026000
+7,Sunshine Coast,Other,8596,4564000
+7,Sunshine Coast,Offender Debt Recovery,255,2787000
+7,Sunshine Coast,Public Order Offences,7870,2598000
+7,Sunshine Coast,"Fraud, Deception and Extortion Related Offences",1429,2472000
+7,Sunshine Coast,Drug,6506,2210000
+7,Sunshine Coast,Stealing,5147,2094000
+7,Toowoomba,Speeding,16018,4597000
+7,Toowoomba,Driving,11783,3869000
+7,Toowoomba,Vehicle,6323,2188000
+7,Toowoomba,Public Order Offences,5694,1986000
+7,Toowoomba,Tolling,9618,1903000
+7,Toowoomba,Offender Debt Recovery,201,1838000
+7,Toowoomba,Other,5116,1831000
+7,Toowoomba,Stealing,3542,1210000
+7,Toowoomba,Drug,3838,1175000
+7,Toowoomba,"Fraud, Deception and Extortion Related Offences",812,824000
+7,Townsville,Driving,29660,9913000
+7,Townsville,Offender Debt Recovery,610,7527000
+7,Townsville,Speeding,25600,6943000
+7,Townsville,Other,21891,6333000
+7,Townsville,Public Order Offences,20720,5503000
+7,Townsville,Vehicle,16208,5498000
+7,Townsville,Stealing,6919,2879000
+7,Townsville,Drug,9873,2786000
+7,Townsville,"Fraud, Deception and Extortion Related Offences",1270,1590000
+7,Townsville,"Bail, Probation and Fail to appear Offences",5047,1489000
+7,Wide Bay,Driving,29102,9601000
+7,Wide Bay,Speeding,30635,8720000
+7,Wide Bay,Offender Debt Recovery,501,6180000
+7,Wide Bay,Vehicle,18032,5856000
+7,Wide Bay,Other,15043,5418000
+7,Wide Bay,Public Order Offences,13129,4475000
+7,Wide Bay,Tolling,17210,3352000
+7,Wide Bay,Drug,8957,3144000
+7,Wide Bay,Stealing,6683,2807000
+7,Wide Bay,"Fraud, Deception and Extortion Related Offences",1563,1763000
+8,Brisbane - East,Tolling,51022,10157000
+8,Brisbane - East,Speeding,30399,9362000
+8,Brisbane - East,Driving,14661,4591000
+8,Brisbane - East,Vehicle,11532,4032000
+8,Brisbane - East,Other,5648,3076000
+8,Brisbane - East,"Fraud, Deception and Extortion Related Offences",817,1984000
+8,Brisbane - East,Offender Debt Recovery,181,1893000
+8,Brisbane - East,Fare Evasion,7419,1874000
+8,Brisbane - East,Parking,12402,1651000
+8,Brisbane - East,Public Order Offences,4290,1468000
+8,Brisbane - North,Speeding,31375,9484000
+8,Brisbane - North,Tolling,42977,8718000
+8,Brisbane - North,Driving,15310,4863000
+8,Brisbane - North,Vehicle,9827,3429000
+8,Brisbane - North,Other,6724,3119000
+8,Brisbane - North,Fare Evasion,11679,2911000
+8,Brisbane - North,Stealing,4667,1900000
+8,Brisbane - North,Public Order Offences,5902,1829000
+8,Brisbane - North,Offender Debt Recovery,219,1787000
+8,Brisbane - North,Parking,12410,1727000
+8,Brisbane - South,Speeding,52194,16645000
+8,Brisbane - South,Tolling,61385,12356000
+8,Brisbane - South,Driving,25653,8550000
+8,Brisbane - South,Vehicle,17942,6437000
+8,Brisbane - South,Other,9370,6330000
+8,Brisbane - South,Offender Debt Recovery,443,5307000
+8,Brisbane - South,Parking,29727,4272000
+8,Brisbane - South,Unknown,384,3159000
+8,Brisbane - South,Fare Evasion,11984,3065000
+8,Brisbane - South,Public Order Offences,8120,2696000
+8,Brisbane - West,Speeding,9412,3204000
+8,Brisbane - West,Tolling,7579,1524000
+8,Brisbane - West,Driving,3747,1255000
+8,Brisbane - West,Other,1353,986000
+8,Brisbane - West,Vehicle,2799,960000
+8,Brisbane - West,Offender Debt Recovery,63,766000
+8,Brisbane - West,Parking,4991,711000
+8,Brisbane - West,Fare Evasion,1670,427000
+8,Brisbane - West,Public Order Offences,1025,352000
+8,Brisbane - West,Stealing,732,291000
+8,Brisbane Inner City,Speeding,40057,13053000
+8,Brisbane Inner City,Other,9698,9935000
+8,Brisbane Inner City,Tolling,36620,7494000
+8,Brisbane Inner City,Driving,17672,5842000
+8,Brisbane Inner City,Parking,35075,4997000
+8,Brisbane Inner City,Vehicle,12905,4633000
+8,Brisbane Inner City,Fare Evasion,13296,3383000
+8,Brisbane Inner City,Offender Debt Recovery,236,3025000
+8,Brisbane Inner City,Public Order Offences,8784,2701000
+8,Brisbane Inner City,"Fraud, Deception and Extortion Related Offences",1349,2226000
+8,Cairns,Driving,23522,7633000
+8,Cairns,Speeding,25145,7160000
+8,Cairns,Other,15328,5747000
+8,Cairns,Offender Debt Recovery,501,5123000
+8,Cairns,Public Order Offences,17513,4610000
+8,Cairns,Vehicle,13310,4396000
+8,Cairns,Drug,7511,2119000
+8,Cairns,Stealing,5768,1767000
+8,Cairns,Parking,16816,1763000
+8,Cairns,"Fraud, Deception and Extortion Related Offences",1199,1660000
+8,Central Queensland,Driving,28001,9366000
+8,Central Queensland,Speeding,24544,7167000
+8,Central Queensland,Other,14345,5361000
+8,Central Queensland,Vehicle,15946,5081000
+8,Central Queensland,Public Order Offences,14856,4557000
+8,Central Queensland,Offender Debt Recovery,363,4182000
+8,Central Queensland,Stealing,6376,2640000
+8,Central Queensland,Drug,7256,2311000
+8,Central Queensland,"Fraud, Deception and Extortion Related Offences",1620,1758000
+8,Central Queensland,Tolling,8316,1597000
+8,Darling Downs - Maranoa,Speeding,16291,4610000
+8,Darling Downs - Maranoa,Driving,13960,4439000
+8,Darling Downs - Maranoa,Other,5734,2690000
+8,Darling Downs - Maranoa,Vehicle,7753,2684000
+8,Darling Downs - Maranoa,Tolling,9917,1921000
+8,Darling Downs - Maranoa,Offender Debt Recovery,158,1894000
+8,Darling Downs - Maranoa,Public Order Offences,5371,1869000
+8,Darling Downs - Maranoa,Drug,3779,1179000
+8,Darling Downs - Maranoa,"Fraud, Deception and Extortion Related Offences",664,1104000
+8,Darling Downs - Maranoa,Stealing,2520,1089000
+8,Gold Coast,Speeding,119907,37749000
+8,Gold Coast,Driving,53674,17258000
+8,Gold Coast,Tolling,83167,16534000
+8,Gold Coast,Vehicle,43405,14506000
+8,Gold Coast,Parking,99067,12238000
+8,Gold Coast,Other,16276,9472000
+8,Gold Coast,"Fraud, Deception and Extortion Related Offences",3097,7140000
+8,Gold Coast,Fare Evasion,22293,6549000
+8,Gold Coast,Public Order Offences,14051,4977000
+8,Gold Coast,Offender Debt Recovery,414,4525000
+8,Ipswich,Tolling,105178,20502000
+8,Ipswich,Speeding,72752,20290000
+8,Ipswich,Driving,50666,15689000
+8,Ipswich,Vehicle,28759,9586000
+8,Ipswich,Offender Debt Recovery,597,7553000
+8,Ipswich,Other,15695,7411000
+8,Ipswich,Fare Evasion,22142,5674000
+8,Ipswich,Public Order Offences,15351,4943000
+8,Ipswich,Stealing,11814,4478000
+8,Ipswich,Parking,25220,3352000
+8,Logan - Beaudesert,Tolling,203500,40073000
+8,Logan - Beaudesert,Speeding,88915,25677000
+8,Logan - Beaudesert,Driving,58435,18141000
+8,Logan - Beaudesert,Vehicle,39348,13460000
+8,Logan - Beaudesert,Other,16268,8390000
+8,Logan - Beaudesert,Offender Debt Recovery,567,6093000
+8,Logan - Beaudesert,Fare Evasion,22500,5886000
+8,Logan - Beaudesert,Public Order Offences,16042,5407000
+8,Logan - Beaudesert,Stealing,11067,4993000
+8,Logan - Beaudesert,Parking,32783,4362000
+8,Mackay - Isaac - Whitsunday,Driving,16292,6193000
+8,Mackay - Isaac - Whitsunday,Speeding,16505,4802000
+8,Mackay - Isaac - Whitsunday,Vehicle,9706,3449000
+8,Mackay - Isaac - Whitsunday,Other,6207,2984000
+8,Mackay - Isaac - Whitsunday,Public Order Offences,6576,2423000
+8,Mackay - Isaac - Whitsunday,Drug,4382,1535000
+8,Mackay - Isaac - Whitsunday,Offender Debt Recovery,146,1517000
+8,Mackay - Isaac - Whitsunday,Stealing,2895,1324000
+8,Mackay - Isaac - Whitsunday,"Fraud, Deception and Extortion Related Offences",759,1246000
+8,Mackay - Isaac - Whitsunday,Tolling,5351,1046000
+8,Moreton Bay - North,Speeding,52022,14495000
+8,Moreton Bay - North,Tolling,57339,11401000
+8,Moreton Bay - North,Driving,31779,10251000
+8,Moreton Bay - North,Vehicle,20232,6803000
+8,Moreton Bay - North,Other,13593,5392000
+8,Moreton Bay - North,Offender Debt Recovery,454,4801000
+8,Moreton Bay - North,Public Order Offences,10464,3477000
+8,Moreton Bay - North,Stealing,8056,3233000
+8,Moreton Bay - North,Fare Evasion,12766,3225000
+8,Moreton Bay - North,Drug,8701,3053000
+8,Moreton Bay - South,Speeding,31843,9196000
+8,Moreton Bay - South,Tolling,38014,7580000
+8,Moreton Bay - South,Driving,14884,4679000
+8,Moreton Bay - South,Vehicle,10030,3487000
+8,Moreton Bay - South,Other,5548,2472000
+8,Moreton Bay - South,Fare Evasion,8196,2074000
+8,Moreton Bay - South,Stealing,3666,1602000
+8,Moreton Bay - South,Offender Debt Recovery,154,1576000
+8,Moreton Bay - South,Public Order Offences,4630,1522000
+8,Moreton Bay - South,Drug,3992,1392000
+8,Sunshine Coast,Speeding,35960,10975000
+8,Sunshine Coast,Driving,23594,7771000
+8,Sunshine Coast,Vehicle,16917,5832000
+8,Sunshine Coast,Tolling,24801,4937000
+8,Sunshine Coast,Other,8574,4761000
+8,Sunshine Coast,Offender Debt Recovery,253,2819000
+8,Sunshine Coast,"Fraud, Deception and Extortion Related Offences",1447,2630000
+8,Sunshine Coast,Public Order Offences,7710,2519000
+8,Sunshine Coast,Drug,6367,2153000
+8,Sunshine Coast,Stealing,4988,1946000
+8,Toowoomba,Speeding,16225,4613000
+8,Toowoomba,Driving,11726,3912000
+8,Toowoomba,Vehicle,6289,2183000
+8,Toowoomba,Public Order Offences,5660,2031000
+8,Toowoomba,Other,4977,1925000
+8,Toowoomba,Tolling,9654,1898000
+8,Toowoomba,Offender Debt Recovery,194,1795000
+8,Toowoomba,Stealing,3466,1283000
+8,Toowoomba,Drug,3819,1177000
+8,Toowoomba,"Fraud, Deception and Extortion Related Offences",791,767000
+8,Townsville,Driving,29191,9744000
+8,Townsville,Offender Debt Recovery,608,7163000
+8,Townsville,Speeding,26014,7012000
+8,Townsville,Other,21217,6241000
+8,Townsville,Public Order Offences,20359,5445000
+8,Townsville,Vehicle,15744,5341000
+8,Townsville,Stealing,6717,2734000
+8,Townsville,Drug,9536,2699000
+8,Townsville,"Fraud, Deception and Extortion Related Offences",1264,1624000
+8,Townsville,"Bail, Probation and Fail to appear Offences",4822,1420000
+8,Wide Bay,Driving,28423,9427000
+8,Wide Bay,Speeding,30636,8668000
+8,Wide Bay,Offender Debt Recovery,492,5817000
+8,Wide Bay,Vehicle,17498,5670000
+8,Wide Bay,Other,14638,5281000
+8,Wide Bay,Public Order Offences,12721,4476000
+8,Wide Bay,Tolling,17209,3358000
+8,Wide Bay,Drug,8692,3053000
+8,Wide Bay,Stealing,6377,2588000
+8,Wide Bay,"Fraud, Deception and Extortion Related Offences",1458,1696000
+9,Brisbane - East,Tolling,50638,10056000
+9,Brisbane - East,Speeding,29891,9282000
+9,Brisbane - East,Driving,14493,4565000
+9,Brisbane - East,Vehicle,11667,4092000
+9,Brisbane - East,Other,5666,2958000
+9,Brisbane - East,"Fraud, Deception and Extortion Related Offences",821,1981000
+9,Brisbane - East,Fare Evasion,7460,1879000
+9,Brisbane - East,Offender Debt Recovery,187,1859000
+9,Brisbane - East,Parking,11717,1582000
+9,Brisbane - East,Public Order Offences,4336,1505000
+9,Brisbane - North,Speeding,31753,9885000
+9,Brisbane - North,Tolling,43929,8884000
+9,Brisbane - North,Driving,14769,4773000
+9,Brisbane - North,Vehicle,9709,3349000
+9,Brisbane - North,Fare Evasion,11709,2918000
+9,Brisbane - North,Other,6626,2915000
+9,Brisbane - North,Public Order Offences,5826,1840000
+9,Brisbane - North,Stealing,4439,1813000
+9,Brisbane - North,Offender Debt Recovery,200,1677000
+9,Brisbane - North,Parking,11643,1611000
+9,Brisbane - South,Speeding,52178,16468000
+9,Brisbane - South,Tolling,60716,12186000
+9,Brisbane - South,Driving,25524,8547000
+9,Brisbane - South,Vehicle,17840,6476000
+9,Brisbane - South,Other,9373,6361000
+9,Brisbane - South,Offender Debt Recovery,458,5283000
+9,Brisbane - South,Parking,28437,4069000
+9,Brisbane - South,Fare Evasion,11599,2961000
+9,Brisbane - South,Stealing,6185,2765000
+9,Brisbane - South,Public Order Offences,8072,2708000
+9,Brisbane - West,Speeding,9495,3317000
+9,Brisbane - West,Tolling,7798,1559000
+9,Brisbane - West,Driving,3830,1270000
+9,Brisbane - West,Vehicle,2800,970000
+9,Brisbane - West,Other,1332,969000
+9,Brisbane - West,Parking,5125,718000
+9,Brisbane - West,Offender Debt Recovery,63,710000
+9,Brisbane - West,Fare Evasion,1698,433000
+9,Brisbane - West,Public Order Offences,1059,366000
+9,Brisbane - West,Fail to Vote,1757,314000
+9,Brisbane Inner City,Speeding,41099,13398000
+9,Brisbane Inner City,Tolling,36255,7398000
+9,Brisbane Inner City,Driving,17831,5977000
+9,Brisbane Inner City,Other,10240,5049000
+9,Brisbane Inner City,Parking,33714,4806000
+9,Brisbane Inner City,Vehicle,12800,4556000
+9,Brisbane Inner City,Fare Evasion,13938,3569000
+9,Brisbane Inner City,Offender Debt Recovery,261,3131000
+9,Brisbane Inner City,Public Order Offences,9483,2965000
+9,Brisbane Inner City,"Fraud, Deception and Extortion Related Offences",1485,2563000
+9,Cairns,Driving,23150,7561000
+9,Cairns,Speeding,25160,7193000
+9,Cairns,Offender Debt Recovery,515,5363000
+9,Cairns,Other,14889,5311000
+9,Cairns,Public Order Offences,17357,4623000
+9,Cairns,Vehicle,13127,4373000
+9,Cairns,Drug,7309,2070000
+9,Cairns,Parking,17299,1828000
+9,Cairns,Stealing,5663,1711000
+9,Cairns,"Fraud, Deception and Extortion Related Offences",1142,1619000
+9,Central Queensland,Driving,27816,9320000
+9,Central Queensland,Speeding,24344,7121000
+9,Central Queensland,Other,14264,5479000
+9,Central Queensland,Vehicle,15821,5070000
+9,Central Queensland,Public Order Offences,14617,4571000
+9,Central Queensland,Offender Debt Recovery,351,3912000
+9,Central Queensland,Stealing,6286,2600000
+9,Central Queensland,Drug,7288,2332000
+9,Central Queensland,"Fraud, Deception and Extortion Related Offences",1552,1790000
+9,Central Queensland,Tolling,8101,1562000
+9,Darling Downs - Maranoa,Speeding,16513,4701000
+9,Darling Downs - Maranoa,Driving,13898,4438000
+9,Darling Downs - Maranoa,Vehicle,7857,2766000
+9,Darling Downs - Maranoa,Other,5680,2717000
+9,Darling Downs - Maranoa,Tolling,10409,2046000
+9,Darling Downs - Maranoa,Public Order Offences,5287,1861000
+9,Darling Downs - Maranoa,Offender Debt Recovery,145,1778000
+9,Darling Downs - Maranoa,Drug,3828,1201000
+9,Darling Downs - Maranoa,Stealing,2598,1127000
+9,Darling Downs - Maranoa,"Fraud, Deception and Extortion Related Offences",587,850000
+9,Gold Coast,Speeding,118648,37503000
+9,Gold Coast,Driving,52515,17046000
+9,Gold Coast,Tolling,80817,15959000
+9,Gold Coast,Vehicle,43198,14564000
+9,Gold Coast,Parking,96905,11995000
+9,Gold Coast,Other,16309,9509000
+9,Gold Coast,"Fraud, Deception and Extortion Related Offences",3077,8506000
+9,Gold Coast,Fare Evasion,22058,6482000
+9,Gold Coast,Public Order Offences,14192,5111000
+9,Gold Coast,Offender Debt Recovery,434,4743000
+9,Ipswich,Tolling,105530,20489000
+9,Ipswich,Speeding,73612,20445000
+9,Ipswich,Driving,49833,15544000
+9,Ipswich,Vehicle,28697,9545000
+9,Ipswich,Offender Debt Recovery,656,7802000
+9,Ipswich,Other,15462,6382000
+9,Ipswich,Fare Evasion,21592,5534000
+9,Ipswich,Public Order Offences,15170,5084000
+9,Ipswich,Stealing,11681,4426000
+9,Ipswich,Parking,24469,3237000
+9,Logan - Beaudesert,Tolling,201105,39555000
+9,Logan - Beaudesert,Speeding,89579,26035000
+9,Logan - Beaudesert,Driving,57945,18023000
+9,Logan - Beaudesert,Vehicle,39332,13496000
+9,Logan - Beaudesert,Other,16271,8254000
+9,Logan - Beaudesert,Offender Debt Recovery,583,6187000
+9,Logan - Beaudesert,Fare Evasion,22274,5843000
+9,Logan - Beaudesert,Public Order Offences,15763,5450000
+9,Logan - Beaudesert,Stealing,11041,4893000
+9,Logan - Beaudesert,Parking,31908,4226000
+9,Mackay - Isaac - Whitsunday,Driving,16168,6093000
+9,Mackay - Isaac - Whitsunday,Speeding,16454,4775000
+9,Mackay - Isaac - Whitsunday,Vehicle,9618,3394000
+9,Mackay - Isaac - Whitsunday,Other,6240,3254000
+9,Mackay - Isaac - Whitsunday,Public Order Offences,6569,2483000
+9,Mackay - Isaac - Whitsunday,Offender Debt Recovery,160,1600000
+9,Mackay - Isaac - Whitsunday,Drug,4338,1542000
+9,Mackay - Isaac - Whitsunday,"Fraud, Deception and Extortion Related Offences",763,1219000
+9,Mackay - Isaac - Whitsunday,Stealing,2783,1200000
+9,Mackay - Isaac - Whitsunday,Tolling,5508,1082000
+9,Moreton Bay - North,Speeding,52127,14687000
+9,Moreton Bay - North,Tolling,59113,11725000
+9,Moreton Bay - North,Driving,31005,10114000
+9,Moreton Bay - North,Vehicle,20201,6851000
+9,Moreton Bay - North,Other,13302,5348000
+9,Moreton Bay - North,Offender Debt Recovery,468,4865000
+9,Moreton Bay - North,Stealing,8005,3410000
+9,Moreton Bay - North,Public Order Offences,10048,3395000
+9,Moreton Bay - North,Fare Evasion,12584,3179000
+9,Moreton Bay - North,Drug,8317,2958000
+9,Moreton Bay - South,Speeding,31574,9123000
+9,Moreton Bay - South,Tolling,37969,7581000
+9,Moreton Bay - South,Driving,14392,4562000
+9,Moreton Bay - South,Vehicle,9911,3481000
+9,Moreton Bay - South,Other,5367,2391000
+9,Moreton Bay - South,Fare Evasion,7841,1984000
+9,Moreton Bay - South,Offender Debt Recovery,159,1602000
+9,Moreton Bay - South,Public Order Offences,4406,1507000
+9,Moreton Bay - South,Stealing,3606,1499000
+9,Moreton Bay - South,"Fraud, Deception and Extortion Related Offences",724,1375000
+9,Sunshine Coast,Speeding,36197,11161000
+9,Sunshine Coast,Driving,22983,7621000
+9,Sunshine Coast,Vehicle,16848,5864000
+9,Sunshine Coast,Tolling,24514,4876000
+9,Sunshine Coast,Other,8449,4743000
+9,Sunshine Coast,Offender Debt Recovery,274,2972000
+9,Sunshine Coast,Public Order Offences,7647,2547000
+9,Sunshine Coast,"Fraud, Deception and Extortion Related Offences",1415,2405000
+9,Sunshine Coast,Drug,6446,2195000
+9,Sunshine Coast,Stealing,5187,2143000
+9,Toowoomba,Speeding,16649,4742000
+9,Toowoomba,Driving,12096,3990000
+9,Toowoomba,Vehicle,6552,2262000
+9,Toowoomba,Public Order Offences,5811,2155000
+9,Toowoomba,Offender Debt Recovery,210,2060000
+9,Toowoomba,Other,5296,2043000
+9,Toowoomba,Tolling,10241,2022000
+9,Toowoomba,Stealing,3542,1258000
+9,Toowoomba,Drug,3921,1226000
+9,Toowoomba,"Fraud, Deception and Extortion Related Offences",820,797000
+9,Townsville,Driving,29166,9848000
+9,Townsville,Offender Debt Recovery,611,7105000
+9,Townsville,Speeding,26119,7047000
+9,Townsville,Other,21447,6563000
+9,Townsville,Public Order Offences,20474,5588000
+9,Townsville,Vehicle,16047,5441000
+9,Townsville,Drug,9593,2725000
+9,Townsville,Stealing,6808,2724000
+9,Townsville,"Fraud, Deception and Extortion Related Offences",1286,1580000
+9,Townsville,"Bail, Probation and Fail to appear Offences",4945,1462000
+9,Wide Bay,Driving,28385,9433000
+9,Wide Bay,Speeding,31075,8736000
+9,Wide Bay,Offender Debt Recovery,513,5878000
+9,Wide Bay,Vehicle,17623,5733000
+9,Wide Bay,Other,14492,5366000
+9,Wide Bay,Public Order Offences,12599,4485000
+9,Wide Bay,Tolling,16997,3318000
+9,Wide Bay,Drug,8630,3042000
+9,Wide Bay,Stealing,6400,2546000
+9,Wide Bay,"Fraud, Deception and Extortion Related Offences",1482,1679000
+10,Brisbane - East,Tolling,50652,10066000
+10,Brisbane - East,Speeding,29650,9230000
+10,Brisbane - East,Driving,14234,4473000
+10,Brisbane - East,Vehicle,11559,4065000
+10,Brisbane - East,Other,5554,2979000
+10,Brisbane - East,"Fraud, Deception and Extortion Related Offences",807,1997000
+10,Brisbane - East,Fare Evasion,7188,1818000
+10,Brisbane - East,Offender Debt Recovery,183,1747000
+10,Brisbane - East,Parking,11471,1552000
+10,Brisbane - East,Public Order Offences,4250,1522000
+10,Brisbane - North,Speeding,31846,9657000
+10,Brisbane - North,Tolling,44698,9064000
+10,Brisbane - North,Driving,14637,4697000
+10,Brisbane - North,Vehicle,9673,3343000
+10,Brisbane - North,Fare Evasion,11711,2923000
+10,Brisbane - North,Other,6608,2842000
+10,Brisbane - North,Public Order Offences,5766,1851000
+10,Brisbane - North,Stealing,4470,1762000
+10,Brisbane - North,Offender Debt Recovery,195,1668000
+10,Brisbane - North,Parking,11431,1581000
+10,Brisbane - South,Speeding,53899,16913000
+10,Brisbane - South,Tolling,61784,12357000
+10,Brisbane - South,Driving,25736,8595000
+10,Brisbane - South,Other,9435,6492000
+10,Brisbane - South,Vehicle,17740,6474000
+10,Brisbane - South,Offender Debt Recovery,465,5206000
+10,Brisbane - South,Parking,28138,4027000
+10,Brisbane - South,Fare Evasion,11794,3007000
+10,Brisbane - South,Stealing,6305,2793000
+10,Brisbane - South,Public Order Offences,8177,2776000
+10,Brisbane - West,Speeding,9681,3404000
+10,Brisbane - West,Tolling,7742,1554000
+10,Brisbane - West,Driving,3736,1238000
+10,Brisbane - West,Other,1306,1011000
+10,Brisbane - West,Vehicle,2822,988000
+10,Brisbane - West,Parking,4894,684000
+10,Brisbane - West,Offender Debt Recovery,56,578000
+10,Brisbane - West,Fare Evasion,1751,450000
+10,Brisbane - West,Public Order Offences,1061,378000
+10,Brisbane - West,Fail to Vote,1628,287000
+10,Brisbane Inner City,Speeding,42573,13863000
+10,Brisbane Inner City,Tolling,37443,7641000
+10,Brisbane Inner City,Driving,17945,6012000
+10,Brisbane Inner City,Other,10219,5167000
+10,Brisbane Inner City,Parking,33171,4735000
+10,Brisbane Inner City,Vehicle,12772,4577000
+10,Brisbane Inner City,Fare Evasion,13504,3445000
+10,Brisbane Inner City,Public Order Offences,9606,3079000
+10,Brisbane Inner City,Offender Debt Recovery,263,3055000
+10,Brisbane Inner City,"Fraud, Deception and Extortion Related Offences",1544,2489000
+10,Cairns,Driving,23027,7507000
+10,Cairns,Speeding,25956,7411000
+10,Cairns,Offender Debt Recovery,512,5415000
+10,Cairns,Other,14762,5361000
+10,Cairns,Public Order Offences,17157,4573000
+10,Cairns,Vehicle,13000,4334000
+10,Cairns,Drug,7172,2030000
+10,Cairns,Parking,17312,1818000
+10,Cairns,Stealing,5540,1674000
+10,Cairns,"Fraud, Deception and Extortion Related Offences",1102,1492000
+10,Central Queensland,Driving,27151,9098000
+10,Central Queensland,Speeding,24589,7244000
+10,Central Queensland,Other,13966,5398000
+10,Central Queensland,Vehicle,15482,4953000
+10,Central Queensland,Public Order Offences,14221,4492000
+10,Central Queensland,Offender Debt Recovery,343,3780000
+10,Central Queensland,Stealing,6040,2563000
+10,Central Queensland,Drug,7145,2288000
+10,Central Queensland,"Fraud, Deception and Extortion Related Offences",1482,1761000
+10,Central Queensland,Tolling,8323,1599000
+10,Darling Downs - Maranoa,Speeding,16792,4803000
+10,Darling Downs - Maranoa,Driving,13762,4380000
+10,Darling Downs - Maranoa,Vehicle,7798,2790000
+10,Darling Downs - Maranoa,Other,5628,2751000
+10,Darling Downs - Maranoa,Tolling,10291,2018000
+10,Darling Downs - Maranoa,Public Order Offences,5328,1907000
+10,Darling Downs - Maranoa,Offender Debt Recovery,153,1829000
+10,Darling Downs - Maranoa,Drug,3710,1160000
+10,Darling Downs - Maranoa,Stealing,2602,1121000
+10,Darling Downs - Maranoa,"Fraud, Deception and Extortion Related Offences",594,810000
+10,Gold Coast,Speeding,118037,37507000
+10,Gold Coast,Driving,51487,16822000
+10,Gold Coast,Tolling,81530,16111000
+10,Gold Coast,Vehicle,42106,14247000
+10,Gold Coast,Parking,96344,11923000
+10,Gold Coast,Other,16355,9524000
+10,Gold Coast,"Fraud, Deception and Extortion Related Offences",3021,8136000
+10,Gold Coast,Fare Evasion,22090,6490000
+10,Gold Coast,Public Order Offences,14250,5295000
+10,Gold Coast,Offender Debt Recovery,433,4599000
+10,Ipswich,Speeding,74056,20605000
+10,Ipswich,Tolling,105105,20435000
+10,Ipswich,Driving,49156,15350000
+10,Ipswich,Vehicle,28196,9353000
+10,Ipswich,Offender Debt Recovery,669,8179000
+10,Ipswich,Other,15246,6223000
+10,Ipswich,Fare Evasion,21528,5521000
+10,Ipswich,Public Order Offences,15058,5232000
+10,Ipswich,Stealing,11668,4471000
+10,Ipswich,Parking,23764,3129000
+10,Logan - Beaudesert,Tolling,198787,39044000
+10,Logan - Beaudesert,Speeding,90077,26249000
+10,Logan - Beaudesert,Driving,57565,17968000
+10,Logan - Beaudesert,Vehicle,39250,13484000
+10,Logan - Beaudesert,Other,16100,8378000
+10,Logan - Beaudesert,Offender Debt Recovery,566,5994000
+10,Logan - Beaudesert,Fare Evasion,22297,5844000
+10,Logan - Beaudesert,Public Order Offences,15556,5570000
+10,Logan - Beaudesert,Stealing,10972,4829000
+10,Logan - Beaudesert,Parking,31768,4224000
+10,Mackay - Isaac - Whitsunday,Driving,16053,6047000
+10,Mackay - Isaac - Whitsunday,Speeding,16726,4936000
+10,Mackay - Isaac - Whitsunday,Vehicle,9537,3397000
+10,Mackay - Isaac - Whitsunday,Other,6248,3220000
+10,Mackay - Isaac - Whitsunday,Public Order Offences,6564,2539000
+10,Mackay - Isaac - Whitsunday,Offender Debt Recovery,158,1582000
+10,Mackay - Isaac - Whitsunday,Drug,4285,1517000
+10,Mackay - Isaac - Whitsunday,Stealing,2818,1230000
+10,Mackay - Isaac - Whitsunday,"Fraud, Deception and Extortion Related Offences",724,1197000
+10,Mackay - Isaac - Whitsunday,Tolling,5736,1132000
+10,Moreton Bay - North,Speeding,52747,14956000
+10,Moreton Bay - North,Tolling,60131,11976000
+10,Moreton Bay - North,Driving,30703,10019000
+10,Moreton Bay - North,Vehicle,20197,6953000
+10,Moreton Bay - North,Other,13171,5313000
+10,Moreton Bay - North,Offender Debt Recovery,472,4875000
+10,Moreton Bay - North,Stealing,8030,3457000
+10,Moreton Bay - North,Public Order Offences,9968,3427000
+10,Moreton Bay - North,Fare Evasion,12658,3201000
+10,Moreton Bay - North,Drug,8366,2947000
+10,Moreton Bay - South,Speeding,31661,9144000
+10,Moreton Bay - South,Tolling,38849,7782000
+10,Moreton Bay - South,Driving,14160,4519000
+10,Moreton Bay - South,Vehicle,9647,3349000
+10,Moreton Bay - South,Other,5319,2396000
+10,Moreton Bay - South,Fare Evasion,7904,2000000
+10,Moreton Bay - South,Offender Debt Recovery,158,1559000
+10,Moreton Bay - South,Public Order Offences,4388,1559000
+10,Moreton Bay - South,Stealing,3660,1496000
+10,Moreton Bay - South,"Fraud, Deception and Extortion Related Offences",746,1436000
+10,Sunshine Coast,Speeding,36225,11157000
+10,Sunshine Coast,Driving,22375,7465000
+10,Sunshine Coast,Vehicle,16544,5772000
+10,Sunshine Coast,Other,8353,5128000
+10,Sunshine Coast,Tolling,24472,4871000
+10,Sunshine Coast,Offender Debt Recovery,262,2908000
+10,Sunshine Coast,Public Order Offences,7507,2572000
+10,Sunshine Coast,"Fraud, Deception and Extortion Related Offences",1433,2351000
+10,Sunshine Coast,Drug,6234,2120000
+10,Sunshine Coast,Stealing,5014,2054000
+10,Toowoomba,Speeding,16977,4857000
+10,Toowoomba,Driving,11881,3923000
+10,Toowoomba,Vehicle,6510,2244000
+10,Toowoomba,Public Order Offences,5747,2181000
+10,Toowoomba,Other,5303,2161000
+10,Toowoomba,Tolling,10553,2092000
+10,Toowoomba,Offender Debt Recovery,202,1886000
+10,Toowoomba,Stealing,3432,1219000
+10,Toowoomba,Drug,3838,1211000
+10,Toowoomba,"Fraud, Deception and Extortion Related Offences",809,789000
+10,Townsville,Driving,28858,9744000
+10,Townsville,Offender Debt Recovery,614,7015000
+10,Townsville,Speeding,25862,7008000
+10,Townsville,Other,21454,6424000
+10,Townsville,Public Order Offences,21102,5794000
+10,Townsville,Vehicle,15781,5394000
+10,Townsville,Drug,9720,2745000
+10,Townsville,Stealing,6914,2740000
+10,Townsville,"Fraud, Deception and Extortion Related Offences",1281,1587000
+10,Townsville,"Bail, Probation and Fail to appear Offences",4971,1473000
+10,Wide Bay,Driving,28433,9494000
+10,Wide Bay,Speeding,31752,8952000
+10,Wide Bay,Offender Debt Recovery,507,5787000
+10,Wide Bay,Vehicle,17499,5693000
+10,Wide Bay,Other,14344,5441000
+10,Wide Bay,Public Order Offences,12521,4552000
+10,Wide Bay,Tolling,16872,3291000
+10,Wide Bay,Drug,8622,3024000
+10,Wide Bay,Stealing,6336,2577000
+10,Wide Bay,"Fraud, Deception and Extortion Related Offences",1452,1651000
+11,Brisbane - East,Tolling,51281,10198000
+11,Brisbane - East,Speeding,30425,9381000
+11,Brisbane - East,Driving,14740,4625000
+11,Brisbane - East,Vehicle,11552,4025000
+11,Brisbane - East,Other,5708,3123000
+11,Brisbane - East,"Fraud, Deception and Extortion Related Offences",840,2029000
+11,Brisbane - East,Offender Debt Recovery,182,1984000
+11,Brisbane - East,Fare Evasion,7483,1890000
+11,Brisbane - East,Parking,12492,1666000
+11,Brisbane - East,Public Order Offences,4310,1483000
+11,Brisbane - North,Speeding,31357,9497000
+11,Brisbane - North,Tolling,41985,8480000
+11,Brisbane - North,Driving,15528,4904000
+11,Brisbane - North,Vehicle,10013,3488000
+11,Brisbane - North,Other,6793,3045000
+11,Brisbane - North,Fare Evasion,11872,2957000
+11,Brisbane - North,Stealing,4768,1978000
+11,Brisbane - North,Public Order Offences,5938,1832000
+11,Brisbane - North,Parking,12727,1781000
+11,Brisbane - North,Offender Debt Recovery,219,1761000
+11,Brisbane - South,Speeding,52014,16713000
+11,Brisbane - South,Tolling,61002,12302000
+11,Brisbane - South,Driving,25768,8537000
+11,Brisbane - South,Vehicle,17880,6421000
+11,Brisbane - South,Other,9420,6341000
+11,Brisbane - South,Offender Debt Recovery,438,5226000
+11,Brisbane - South,Parking,29758,4278000
+11,Brisbane - South,Unknown,352,3134000
+11,Brisbane - South,Fare Evasion,11941,3056000
+11,Brisbane - South,Public Order Offences,8230,2702000
+11,Brisbane - West,Speeding,9257,3153000
+11,Brisbane - West,Tolling,7400,1483000
+11,Brisbane - West,Driving,3801,1276000
+11,Brisbane - West,Other,1349,1008000
+11,Brisbane - West,Vehicle,2808,983000
+11,Brisbane - West,Offender Debt Recovery,60,759000
+11,Brisbane - West,Parking,5188,733000
+11,Brisbane - West,Fare Evasion,1611,410000
+11,Brisbane - West,Public Order Offences,1021,348000
+11,Brisbane - West,Stealing,767,320000
+11,Brisbane Inner City,Speeding,40182,13083000
+11,Brisbane Inner City,Other,9643,10184000
+11,Brisbane Inner City,Tolling,36616,7523000
+11,Brisbane Inner City,Driving,17492,5810000
+11,Brisbane Inner City,Parking,35478,5064000
+11,Brisbane Inner City,Vehicle,12776,4540000
+11,Brisbane Inner City,Fare Evasion,13125,3336000
+11,Brisbane Inner City,Offender Debt Recovery,227,3005000
+11,Brisbane Inner City,Public Order Offences,8779,2713000
+11,Brisbane Inner City,"Fraud, Deception and Extortion Related Offences",1316,2207000
+11,Cairns,Driving,23613,7651000
+11,Cairns,Speeding,25058,7137000
+11,Cairns,Other,15249,5710000
+11,Cairns,Offender Debt Recovery,495,5063000
+11,Cairns,Public Order Offences,17457,4593000
+11,Cairns,Vehicle,13464,4432000
+11,Cairns,Drug,7587,2127000
+11,Cairns,Stealing,5795,1761000
+11,Cairns,Parking,16474,1740000
+11,Cairns,"Fraud, Deception and Extortion Related Offences",1214,1699000
+11,Central Queensland,Driving,28269,9435000
+11,Central Queensland,Speeding,24499,7176000
+11,Central Queensland,Other,14341,5369000
+11,Central Queensland,Vehicle,16054,5107000
+11,Central Queensland,Public Order Offences,14852,4534000
+11,Central Queensland,Offender Debt Recovery,362,4170000
+11,Central Queensland,Stealing,6328,2626000
+11,Central Queensland,Drug,7300,2321000
+11,Central Queensland,"Fraud, Deception and Extortion Related Offences",1634,1850000
+11,Central Queensland,Tolling,7997,1539000
+11,Darling Downs - Maranoa,Speeding,16240,4615000
+11,Darling Downs - Maranoa,Driving,14074,4457000
+11,Darling Downs - Maranoa,Vehicle,7792,2698000
+11,Darling Downs - Maranoa,Other,5718,2659000
+11,Darling Downs - Maranoa,Offender Debt Recovery,157,1893000
+11,Darling Downs - Maranoa,Public Order Offences,5412,1887000
+11,Darling Downs - Maranoa,Tolling,9769,1882000
+11,Darling Downs - Maranoa,Drug,3869,1206000
+11,Darling Downs - Maranoa,Stealing,2553,1148000
+11,Darling Downs - Maranoa,"Fraud, Deception and Extortion Related Offences",676,1145000
+11,Gold Coast,Speeding,119772,37648000
+11,Gold Coast,Driving,53957,17279000
+11,Gold Coast,Tolling,83591,16606000
+11,Gold Coast,Vehicle,43742,14626000
+11,Gold Coast,Parking,99827,12352000
+11,Gold Coast,Other,16269,9384000
+11,Gold Coast,"Fraud, Deception and Extortion Related Offences",3135,7148000
+11,Gold Coast,Fare Evasion,22618,6648000
+11,Gold Coast,Public Order Offences,14131,4982000
+11,Gold Coast,Offender Debt Recovery,410,4535000
+11,Ipswich,Tolling,104794,20420000
+11,Ipswich,Speeding,72326,20208000
+11,Ipswich,Driving,50777,15697000
+11,Ipswich,Vehicle,28882,9612000
+11,Ipswich,Offender Debt Recovery,595,7533000
+11,Ipswich,Other,15753,7449000
+11,Ipswich,Fare Evasion,22295,5712000
+11,Ipswich,Public Order Offences,15319,4895000
+11,Ipswich,Stealing,11796,4412000
+11,Ipswich,Parking,25523,3412000
+11,Logan - Beaudesert,Tolling,203627,40135000
+11,Logan - Beaudesert,Speeding,88664,25637000
+11,Logan - Beaudesert,Driving,58813,18240000
+11,Logan - Beaudesert,Vehicle,39546,13496000
+11,Logan - Beaudesert,Other,16296,8379000
+11,Logan - Beaudesert,Offender Debt Recovery,560,6198000
+11,Logan - Beaudesert,Fare Evasion,22588,5923000
+11,Logan - Beaudesert,Public Order Offences,16071,5389000
+11,Logan - Beaudesert,Stealing,11094,4981000
+11,Logan - Beaudesert,Parking,33132,4436000
+11,Mackay - Isaac - Whitsunday,Driving,16254,6173000
+11,Mackay - Isaac - Whitsunday,Speeding,16500,4827000
+11,Mackay - Isaac - Whitsunday,Vehicle,9609,3417000
+11,Mackay - Isaac - Whitsunday,Other,6268,2987000
+11,Mackay - Isaac - Whitsunday,Public Order Offences,6681,2439000
+11,Mackay - Isaac - Whitsunday,Offender Debt Recovery,149,1628000
+11,Mackay - Isaac - Whitsunday,Drug,4370,1524000
+11,Mackay - Isaac - Whitsunday,Stealing,2950,1345000
+11,Mackay - Isaac - Whitsunday,"Fraud, Deception and Extortion Related Offences",760,1199000
+11,Mackay - Isaac - Whitsunday,Tolling,5415,1058000
+11,Moreton Bay - North,Speeding,51556,14352000
+11,Moreton Bay - North,Tolling,56553,11222000
+11,Moreton Bay - North,Driving,31784,10218000
+11,Moreton Bay - North,Vehicle,20290,6793000
+11,Moreton Bay - North,Other,13436,5109000
+11,Moreton Bay - North,Offender Debt Recovery,446,4804000
+11,Moreton Bay - North,Public Order Offences,10425,3451000
+11,Moreton Bay - North,Stealing,8072,3228000
+11,Moreton Bay - North,Fare Evasion,12624,3199000
+11,Moreton Bay - North,Drug,8654,3023000
+11,Moreton Bay - South,Speeding,31934,9243000
+11,Moreton Bay - South,Tolling,37511,7462000
+11,Moreton Bay - South,Driving,14960,4695000
+11,Moreton Bay - South,Vehicle,10004,3476000
+11,Moreton Bay - South,Other,5607,2461000
+11,Moreton Bay - South,Fare Evasion,8433,2129000
+11,Moreton Bay - South,Offender Debt Recovery,146,1570000
+11,Moreton Bay - South,Stealing,3711,1564000
+11,Moreton Bay - South,Public Order Offences,4718,1529000
+11,Moreton Bay - South,Drug,4065,1411000
+11,Sunshine Coast,Speeding,36200,11157000
+11,Sunshine Coast,Driving,23893,7888000
+11,Sunshine Coast,Vehicle,16974,5836000
+11,Sunshine Coast,Tolling,24920,4955000
+11,Sunshine Coast,Other,8618,4683000
+11,Sunshine Coast,Offender Debt Recovery,255,2826000
+11,Sunshine Coast,"Fraud, Deception and Extortion Related Offences",1445,2597000
+11,Sunshine Coast,Public Order Offences,7741,2546000
+11,Sunshine Coast,Drug,6419,2164000
+11,Sunshine Coast,Stealing,5016,1980000
+11,Toowoomba,Speeding,16336,4671000
+11,Toowoomba,Driving,11729,3899000
+11,Toowoomba,Vehicle,6293,2179000
+11,Toowoomba,Public Order Offences,5671,2013000
+11,Toowoomba,Other,5047,1947000
+11,Toowoomba,Tolling,9696,1912000
+11,Toowoomba,Offender Debt Recovery,194,1809000
+11,Toowoomba,Stealing,3480,1252000
+11,Toowoomba,Drug,3811,1174000
+11,Toowoomba,"Fraud, Deception and Extortion Related Offences",783,777000
+11,Townsville,Driving,29700,9922000
+11,Townsville,Offender Debt Recovery,620,7456000
+11,Townsville,Speeding,26106,7055000
+11,Townsville,Other,21596,6450000
+11,Townsville,Public Order Offences,20556,5497000
+11,Townsville,Vehicle,16049,5463000
+11,Townsville,Stealing,6807,2764000
+11,Townsville,Drug,9741,2764000
+11,Townsville,"Fraud, Deception and Extortion Related Offences",1267,1645000
+11,Townsville,"Bail, Probation and Fail to appear Offences",4928,1443000
+11,Wide Bay,Driving,28622,9507000
+11,Wide Bay,Speeding,30635,8684000
+11,Wide Bay,Offender Debt Recovery,491,6068000
+11,Wide Bay,Vehicle,17607,5706000
+11,Wide Bay,Other,14819,5356000
+11,Wide Bay,Public Order Offences,12950,4513000
+11,Wide Bay,Tolling,17422,3393000
+11,Wide Bay,Drug,8867,3111000
+11,Wide Bay,Stealing,6416,2632000
+11,Wide Bay,"Fraud, Deception and Extortion Related Offences",1421,1665000
+12,Brisbane - East,Tolling,51214,10190000
+12,Brisbane - East,Speeding,30341,9362000
+12,Brisbane - East,Driving,14696,4630000
+12,Brisbane - East,Vehicle,11718,4095000
+12,Brisbane - East,Other,5678,2982000
+12,Brisbane - East,"Fraud, Deception and Extortion Related Offences",826,2035000
+12,Brisbane - East,Offender Debt Recovery,193,2024000
+12,Brisbane - East,Fare Evasion,7356,1857000
+12,Brisbane - East,Parking,12193,1642000
+12,Brisbane - East,Public Order Offences,4394,1516000
+12,Brisbane - North,Speeding,31702,9750000
+12,Brisbane - North,Tolling,43090,8776000
+12,Brisbane - North,Driving,15105,4820000
+12,Brisbane - North,Vehicle,9704,3373000
+12,Brisbane - North,Other,6610,3121000
+12,Brisbane - North,Fare Evasion,11469,2851000
+12,Brisbane - North,Stealing,4579,1911000
+12,Brisbane - North,Public Order Offences,5877,1837000
+12,Brisbane - North,Offender Debt Recovery,209,1659000
+12,Brisbane - North,Parking,11882,1655000
+12,Brisbane - South,Speeding,52288,16702000
+12,Brisbane - South,Tolling,61111,12296000
+12,Brisbane - South,Driving,25695,8542000
+12,Brisbane - South,Vehicle,17800,6424000
+12,Brisbane - South,Other,9451,6266000
+12,Brisbane - South,Offender Debt Recovery,456,5391000
+12,Brisbane - South,Parking,29441,4213000
+12,Brisbane - South,Fare Evasion,11813,3028000
+12,Brisbane - South,Public Order Offences,8234,2724000
+12,Brisbane - South,Stealing,6193,2689000
+12,Brisbane - West,Speeding,9445,3186000
+12,Brisbane - West,Tolling,7718,1546000
+12,Brisbane - West,Driving,3755,1235000
+12,Brisbane - West,Other,1346,996000
+12,Brisbane - West,Vehicle,2777,949000
+12,Brisbane - West,Offender Debt Recovery,61,747000
+12,Brisbane - West,Parking,4989,706000
+12,Brisbane - West,Fare Evasion,1649,419000
+12,Brisbane - West,Public Order Offences,1041,360000
+12,Brisbane - West,Stealing,718,279000
+12,Brisbane Inner City,Speeding,41207,13386000
+12,Brisbane Inner City,Tolling,36785,7499000
+12,Brisbane Inner City,Driving,18162,6036000
+12,Brisbane Inner City,Other,10210,4902000
+12,Brisbane Inner City,Parking,34355,4880000
+12,Brisbane Inner City,Vehicle,13015,4604000
+12,Brisbane Inner City,Fare Evasion,13783,3525000
+12,Brisbane Inner City,Offender Debt Recovery,256,3085000
+12,Brisbane Inner City,Public Order Offences,9352,2889000
+12,Brisbane Inner City,"Fraud, Deception and Extortion Related Offences",1416,2432000
+12,Cairns,Driving,23461,7631000
+12,Cairns,Speeding,25504,7249000
+12,Cairns,Other,15066,5359000
+12,Cairns,Offender Debt Recovery,512,5294000
+12,Cairns,Public Order Offences,17384,4602000
+12,Cairns,Vehicle,13361,4419000
+12,Cairns,Drug,7391,2072000
+12,Cairns,Parking,16850,1775000
+12,Cairns,Stealing,5757,1755000
+12,Cairns,"Fraud, Deception and Extortion Related Offences",1202,1681000
+12,Central Queensland,Driving,27941,9333000
+12,Central Queensland,Speeding,24679,7199000
+12,Central Queensland,Other,14262,5454000
+12,Central Queensland,Vehicle,15889,5058000
+12,Central Queensland,Public Order Offences,14672,4549000
+12,Central Queensland,Offender Debt Recovery,351,4041000
+12,Central Queensland,Stealing,6253,2626000
+12,Central Queensland,Drug,7210,2294000
+12,Central Queensland,"Fraud, Deception and Extortion Related Offences",1577,1769000
+12,Central Queensland,Tolling,8379,1615000
+12,Darling Downs - Maranoa,Speeding,16427,4653000
+12,Darling Downs - Maranoa,Driving,13950,4440000
+12,Darling Downs - Maranoa,Vehicle,7898,2750000
+12,Darling Downs - Maranoa,Other,5711,2650000
+12,Darling Downs - Maranoa,Tolling,9837,1910000
+12,Darling Downs - Maranoa,Public Order Offences,5310,1863000
+12,Darling Downs - Maranoa,Offender Debt Recovery,148,1781000
+12,Darling Downs - Maranoa,Drug,3842,1207000
+12,Darling Downs - Maranoa,Stealing,2576,1126000
+December,Darling Downs - Maranoa,Animal,2444,871000
+12,Gold Coast,Speeding,120032,37786000
+12,Gold Coast,Driving,53506,17328000
+12,Gold Coast,Tolling,82037,16285000
+12,Gold Coast,Vehicle,43561,14590000
+12,Gold Coast,Parking,95273,11649000
+12,Gold Coast,Other,16300,9429000
+12,Gold Coast,"Fraud, Deception and Extortion Related Offences",3139,9066000
+12,Gold Coast,Fare Evasion,22443,6586000
+12,Gold Coast,Public Order Offences,14022,5026000
+12,Gold Coast,Offender Debt Recovery,428,4534000
+12,Ipswich,Tolling,106391,20730000
+12,Ipswich,Speeding,73929,20539000
+12,Ipswich,Driving,50541,15695000
+12,Ipswich,Vehicle,28926,9629000
+12,Ipswich,Offender Debt Recovery,621,7679000
+12,Ipswich,Other,15569,6726000
+12,Ipswich,Fare Evasion,21856,5594000
+12,Ipswich,Public Order Offences,15231,4987000
+12,Ipswich,Stealing,11806,4500000
+12,Ipswich,Parking,25101,3338000
+12,Logan - Beaudesert,Tolling,203216,40019000
+12,Logan - Beaudesert,Speeding,89995,26105000
+12,Logan - Beaudesert,Driving,58784,18291000
+12,Logan - Beaudesert,Vehicle,39618,13547000
+12,Logan - Beaudesert,Other,16337,8339000
+12,Logan - Beaudesert,Offender Debt Recovery,572,6121000
+12,Logan - Beaudesert,Fare Evasion,22526,5905000
+12,Logan - Beaudesert,Public Order Offences,15901,5434000
+12,Logan - Beaudesert,Stealing,11067,4898000
+12,Logan - Beaudesert,Parking,32454,4308000
+12,Mackay - Isaac - Whitsunday,Driving,16466,6249000
+12,Mackay - Isaac - Whitsunday,Speeding,16734,4882000
+12,Mackay - Isaac - Whitsunday,Vehicle,9820,3493000
+12,Mackay - Isaac - Whitsunday,Other,6436,3311000
+12,Mackay - Isaac - Whitsunday,Public Order Offences,6802,2522000
+12,Mackay - Isaac - Whitsunday,Offender Debt Recovery,154,1589000
+12,Mackay - Isaac - Whitsunday,Drug,4477,1571000
+12,Mackay - Isaac - Whitsunday,Stealing,2915,1299000
+12,Mackay - Isaac - Whitsunday,"Fraud, Deception and Extortion Related Offences",776,1260000
+12,Mackay - Isaac - Whitsunday,Tolling,5509,1075000
+12,Moreton Bay - North,Speeding,52419,14669000
+12,Moreton Bay - North,Tolling,58616,11683000
+12,Moreton Bay - North,Driving,31659,10249000
+12,Moreton Bay - North,Vehicle,20384,6904000
+12,Moreton Bay - North,Other,13564,5400000
+12,Moreton Bay - North,Offender Debt Recovery,451,4654000
+12,Moreton Bay - North,Public Order Offences,10332,3464000
+12,Moreton Bay - North,Stealing,8078,3290000
+12,Moreton Bay - North,Fare Evasion,12882,3250000
+12,Moreton Bay - North,Drug,8581,3021000
+12,Moreton Bay - South,Speeding,31857,9189000
+12,Moreton Bay - South,Tolling,38549,7704000
+12,Moreton Bay - South,Driving,14817,4668000
+12,Moreton Bay - South,Vehicle,10091,3487000
+12,Moreton Bay - South,Other,5554,2501000
+12,Moreton Bay - South,Fare Evasion,8163,2062000
+12,Moreton Bay - South,Offender Debt Recovery,163,1725000
+12,Moreton Bay - South,Stealing,3651,1532000
+12,Moreton Bay - South,Public Order Offences,4578,1530000
+12,Moreton Bay - South,"Fraud, Deception and Extortion Related Offences",754,1428000
+12,Sunshine Coast,Speeding,36505,11197000
+12,Sunshine Coast,Driving,23644,7817000
+12,Sunshine Coast,Vehicle,17040,5869000
+12,Sunshine Coast,Tolling,24837,4957000
+12,Sunshine Coast,Other,8587,4708000
+12,Sunshine Coast,Offender Debt Recovery,266,2900000
+12,Sunshine Coast,Public Order Offences,7756,2570000
+12,Sunshine Coast,"Fraud, Deception and Extortion Related Offences",1453,2512000
+12,Sunshine Coast,Drug,6487,2202000
+12,Sunshine Coast,Stealing,5170,2040000
+12,Toowoomba,Speeding,16659,4737000
+12,Toowoomba,Driving,11984,3975000
+12,Toowoomba,Vehicle,6362,2194000
+12,Toowoomba,Public Order Offences,5693,2079000
+12,Toowoomba,Other,5108,2007000
+12,Toowoomba,Offender Debt Recovery,205,1990000
+12,Toowoomba,Tolling,9885,1946000
+12,Toowoomba,Stealing,3462,1253000
+12,Toowoomba,Drug,3823,1190000
+12,Toowoomba,"Fraud, Deception and Extortion Related Offences",810,817000
+12,Townsville,Driving,29008,9747000
+12,Townsville,Speeding,26310,7107000
+12,Townsville,Offender Debt Recovery,595,7099000
+12,Townsville,Other,21253,6236000
+12,Townsville,Public Order Offences,20202,5460000
+12,Townsville,Vehicle,15841,5399000
+12,Townsville,Stealing,6677,2697000
+12,Townsville,Drug,9429,2668000
+12,Townsville,"Fraud, Deception and Extortion Related Offences",1291,1568000
+12,Townsville,"Bail, Probation and Fail to appear Offences",4885,1441000
+12,Wide Bay,Driving,28287,9344000
+12,Wide Bay,Speeding,30804,8646000
+12,Wide Bay,Offender Debt Recovery,495,5725000
+12,Wide Bay,Vehicle,17537,5712000
+12,Wide Bay,Other,14513,5240000
+12,Wide Bay,Public Order Offences,12613,4441000
+12,Wide Bay,Tolling,16991,3318000
+12,Wide Bay,Drug,8504,3020000
+12,Wide Bay,Stealing,6318,2503000
+12,Wide Bay,"Fraud, Deception and Extortion Related Offences",1423,1608000

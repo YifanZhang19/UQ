@@ -153,7 +153,7 @@ pause
 A*(B*C)
 pause % Identity matrix
 A = [1 2; 3 4]
-I = eye(2)
+I = eye(2) % create identify matrix
 A*I
 pause
 (A*I - A)==0

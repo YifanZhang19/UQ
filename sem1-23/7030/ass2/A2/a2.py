@@ -749,7 +749,7 @@ class Player(Entity):
             Return:
                 None
         """
-        
+
         for card in self.hand:
             self.discard_pile.append(card)
         self.hand = []
@@ -1056,7 +1056,8 @@ class Encounter:
         as an instance of the Encounter class.
     """
 
-    def __init__(self, player: Player, monsters: list[tuple[str, int]]) -> None:
+    def __init__(self, player: Player,
+                 monsters: list[tuple[str, int]]) -> None:
         """The initializer for an encounter takes the player instance,as well as
             a list of tuples describing the monsters in the encounter.
 
@@ -1324,4 +1325,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-

@@ -6,6 +6,7 @@ from sklearn import linear_model
 
 import torch
 import torch.optim as optim
+
 class LogisticRegression:
     def __init__(self):
         pass
@@ -37,30 +38,21 @@ class LogisticRegression:
 
         self.intercept_ = np.zeros(n_classes)
         self.coef_ = np.zeros((n_classes, n_features))
-        self.momentum_term_intercept_ = np.zeros(n_classes)
-        self.momentum_term_coef_ = np.zeros((n_classes, n_features))
-        # # Implement your gradient descent training code here; uncomment the code below to do "random training"
-        # self.intercept_ = np.random.randn(*self.intercept_.shape)
-        # self.coef_ = np.random.randn(*self.coef_.shape)
 
-        for _ in range(niter):
-            scores = X @ self.coef_.T + self.intercept_
-            max_scores = np.max(scores, axis=1, keepdims=True)
-            exp_scores = np.exp(scores - max_scores)
-            class_probs = exp_scores / exp_scores.sum(axis=1, keepdims=True)
-            # class_probs = self.predict_proba(X)
+        # Implement your gradient descent training code here; uncomment the code below to do "random training"
+        #self.intercept_ = np.random.randn(*self.intercept_.shape)
+        #self.coef_ = np.random.randn(*self.coef_.shape)
+        for iteration in range(niter):
+            softmax = self.predict_proba(X)
+
             # Compute the gradient of the log-loss
-            gradients = -(1 / len(y)) * (X.T @ (class_probs - (y[:, np.newaxis] == np.arange(n_classes))))
+            error = softmax - np.eye(n_classes)[y]
+            grad_coef = error.T @ X
+            grad_intercept = np.sum(error, axis=0)
 
-            # momentum
-            self.momentum_term_intercept_ = momentum * self.momentum_term_intercept_ + gradients.sum(
-                axis=0)
-            self.momentum_term_coef_ = momentum * self.momentum_term_coef_ + gradients.T
-            self.intercept_ -= lr * self.momentum_term_intercept_
-            self.coef_ -= lr * self.momentum_term_coef_
-            # Update model parameters using gradient descent with momentum
-            # self.intercept_ -= lr * gradients.sum(axis=0)
-            # self.coef_ -= lr * gradients.T
+            # Update model parameters using gradient descent
+            self.coef_ -= lr * grad_coef
+            self.intercept_ -= lr * grad_intercept
 
         return self
 
@@ -80,7 +72,6 @@ class LogisticRegression:
         '''
 
         # Modify the code below to implement the idea for avoiding numerical flow as described in Q4 (b)
-
         scores = X @ self.coef_.T + self.intercept_
         scores -= np.max(scores, axis=1).reshape(-1, 1)
         scores = np.exp(scores)
@@ -113,3 +104,6 @@ if __name__ == '__main__':
     clf.fit(X_tr, y_tr)
     print(accuracy_score(y_tr, clf.predict(X_tr)))
     print(accuracy_score(y_ts, clf.predict(X_ts)))
+
+
+
